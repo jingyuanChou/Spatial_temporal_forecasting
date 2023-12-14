@@ -83,7 +83,7 @@ class MTE_STJGC(nn.Module):
         
         MTE_static_matrices = torch.transpose(MTE_static_matrices, 1, 2, 0)
         '''
-        MTE_static_matrices = torch.normal(1,1,(12,49,49))
+        MTE_static_matrices = torch.normal(1,1,(self.seq_length,self.num_nodes,self.num_nodes))
         # Then obtain the embedding
         embedding_U = self.feature_transform(input)  # expand to latent space
 

@@ -1,0 +1,158 @@
+2023-12-13 14:59:05,643 - train - INFO - DCRNNModel(
+  (encoder): DCRNNEncoder(
+    (encoding_cells): ModuleList(
+      (0-1): 2 x DCGRUCell(
+        (dconv_gate): DiffusionGraphConv()
+        (dconv_candidate): DiffusionGraphConv()
+      )
+    )
+  )
+  (decoder): DCGRUDecoder(
+    (decoding_cells): ModuleList(
+      (0): DCGRUCell(
+        (dconv_gate): DiffusionGraphConv()
+        (dconv_candidate): DiffusionGraphConv()
+      )
+      (1): DCGRUCell(
+        (dconv_gate): DiffusionGraphConv()
+        (dconv_candidate): DiffusionGraphConv()
+        (project): Linear(in_features=64, out_features=1, bias=True)
+      )
+    )
+  )
+)
+Trainable parameters: 371393
+2023-12-13 14:59:12,845 - trainer - INFO -     epoch          : 1
+2023-12-13 14:59:12,855 - trainer - INFO -     loss           : 522.0428490638733
+2023-12-13 14:59:12,855 - trainer - INFO -     masked_mae_np  : 0.29865720105896654
+2023-12-13 14:59:12,855 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 14:59:12,855 - trainer - INFO -     masked_rmse_np : 0.6557343072797123
+2023-12-13 14:59:12,856 - trainer - INFO -     val_loss       : 34.644239807128905
+2023-12-13 14:59:12,856 - trainer - INFO -     val_masked_mae_np: 0.019819738063961267
+2023-12-13 14:59:12,856 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 14:59:12,856 - trainer - INFO -     val_masked_rmse_np: 0.08532374370843172
+2023-12-13 14:59:12,857 - trainer - INFO -     Time           : 6.0966s
+2023-12-13 14:59:12,868 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch1.pth ...
+2023-12-13 14:59:12,880 - trainer - INFO - Saving current best: model_best.pth ...
+2023-12-13 14:59:19,250 - trainer - INFO -     epoch          : 2
+2023-12-13 14:59:19,250 - trainer - INFO -     loss           : 422.5882978690298
+2023-12-13 14:59:19,250 - trainer - INFO -     masked_mae_np  : 0.24175991593418936
+2023-12-13 14:59:19,250 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 14:59:19,251 - trainer - INFO -     masked_rmse_np : 0.6401825203609309
+2023-12-13 14:59:19,251 - trainer - INFO -     val_loss       : 197.36649169921876
+2023-12-13 14:59:19,251 - trainer - INFO -     val_masked_mae_np: 0.1129120372235775
+2023-12-13 14:59:19,251 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 14:59:19,251 - trainer - INFO -     val_masked_rmse_np: 0.13611705899238585
+2023-12-13 14:59:19,252 - trainer - INFO -     Time           : 6.0259s
+2023-12-13 14:59:19,263 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch2.pth ...
+2023-12-13 14:59:25,703 - trainer - INFO -     epoch          : 3
+2023-12-13 14:59:25,703 - trainer - INFO -     loss           : 475.802989533073
+2023-12-13 14:59:25,703 - trainer - INFO -     masked_mae_np  : 0.2722036798582657
+2023-12-13 14:59:25,704 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 14:59:25,704 - trainer - INFO -     masked_rmse_np : 0.6496994637173453
+2023-12-13 14:59:25,704 - trainer - INFO -     val_loss       : 120.04538116455078
+2023-12-13 14:59:25,704 - trainer - INFO -     val_masked_mae_np: 0.0686771560460329
+2023-12-13 14:59:25,704 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 14:59:25,705 - trainer - INFO -     val_masked_rmse_np: 0.11219760663807392
+2023-12-13 14:59:25,705 - trainer - INFO -     Time           : 6.1046s
+2023-12-13 14:59:25,716 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch3.pth ...
+2023-12-13 14:59:32,162 - trainer - INFO -     epoch          : 4
+2023-12-13 14:59:32,162 - trainer - INFO -     loss           : 444.97460982674045
+2023-12-13 14:59:32,162 - trainer - INFO -     masked_mae_np  : 0.25456697603467066
+2023-12-13 14:59:32,162 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 14:59:32,163 - trainer - INFO -     masked_rmse_np : 0.6428102135204857
+2023-12-13 14:59:32,163 - trainer - INFO -     val_loss       : 121.83126296997071
+2023-12-13 14:59:32,163 - trainer - INFO -     val_masked_mae_np: 0.06969884410500526
+2023-12-13 14:59:32,163 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 14:59:32,163 - trainer - INFO -     val_masked_rmse_np: 0.11238938570022583
+2023-12-13 14:59:32,164 - trainer - INFO -     Time           : 6.0990s
+2023-12-13 14:59:32,175 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch4.pth ...
+2023-12-13 14:59:38,541 - trainer - INFO -     epoch          : 5
+2023-12-13 14:59:38,543 - trainer - INFO -     loss           : 426.5604261599089
+2023-12-13 14:59:38,543 - trainer - INFO -     masked_mae_np  : 0.24403234353705652
+2023-12-13 14:59:38,543 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 14:59:38,543 - trainer - INFO -     masked_rmse_np : 0.6423385746433938
+2023-12-13 14:59:38,544 - trainer - INFO -     val_loss       : 107.07228088378906
+2023-12-13 14:59:38,544 - trainer - INFO -     val_masked_mae_np: 0.06125532947480679
+2023-12-13 14:59:38,544 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 14:59:38,544 - trainer - INFO -     val_masked_rmse_np: 0.09956809878349304
+2023-12-13 14:59:38,544 - trainer - INFO -     Time           : 6.0320s
+2023-12-13 14:59:38,556 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch5.pth ...
+2023-12-13 14:59:44,956 - trainer - INFO -     epoch          : 6
+2023-12-13 14:59:44,957 - trainer - INFO -     loss           : 428.10870296076723
+2023-12-13 14:59:44,957 - trainer - INFO -     masked_mae_np  : 0.24491810813350112
+2023-12-13 14:59:44,957 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 14:59:44,957 - trainer - INFO -     masked_rmse_np : 0.6352861187371769
+2023-12-13 14:59:44,958 - trainer - INFO -     val_loss       : 108.60001525878906
+2023-12-13 14:59:44,958 - trainer - INFO -     val_masked_mae_np: 0.062129334360361096
+2023-12-13 14:59:44,958 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 14:59:44,958 - trainer - INFO -     val_masked_rmse_np: 0.10811859481036663
+2023-12-13 14:59:44,958 - trainer - INFO -     Time           : 6.0573s
+2023-12-13 14:59:44,970 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch6.pth ...
+2023-12-13 14:59:51,445 - trainer - INFO -     epoch          : 7
+2023-12-13 14:59:51,445 - trainer - INFO -     loss           : 425.97839812228557
+2023-12-13 14:59:51,446 - trainer - INFO -     masked_mae_np  : 0.24369937773352782
+2023-12-13 14:59:51,446 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 14:59:51,446 - trainer - INFO -     masked_rmse_np : 0.6353436138505411
+2023-12-13 14:59:51,446 - trainer - INFO -     val_loss       : 99.46611404418945
+2023-12-13 14:59:51,446 - trainer - INFO -     val_masked_mae_np: 0.05690389387309551
+2023-12-13 14:59:51,447 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 14:59:51,447 - trainer - INFO -     val_masked_rmse_np: 0.09770312011241913
+2023-12-13 14:59:51,447 - trainer - INFO -     Time           : 6.1372s
+2023-12-13 14:59:51,458 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch7.pth ...
+2023-12-13 14:59:58,924 - trainer - INFO -     epoch          : 8
+2023-12-13 14:59:58,925 - trainer - INFO -     loss           : 471.926661742361
+2023-12-13 14:59:58,925 - trainer - INFO -     masked_mae_np  : 0.26998606145283893
+2023-12-13 14:59:58,925 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 14:59:58,925 - trainer - INFO -     masked_rmse_np : 0.6443165078955261
+2023-12-13 14:59:58,925 - trainer - INFO -     val_loss       : 66.44497013092041
+2023-12-13 14:59:58,926 - trainer - INFO -     val_masked_mae_np: 0.03801271850243211
+2023-12-13 14:59:58,926 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 14:59:58,926 - trainer - INFO -     val_masked_rmse_np: 0.09065530002117157
+2023-12-13 14:59:58,926 - trainer - INFO -     Time           : 7.1052s
+2023-12-13 14:59:58,941 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch8.pth ...
+2023-12-13 15:00:05,415 - trainer - INFO -     epoch          : 9
+2023-12-13 15:00:05,416 - trainer - INFO -     loss           : 468.6025259871232
+2023-12-13 15:00:05,416 - trainer - INFO -     masked_mae_np  : 0.26808434717455193
+2023-12-13 15:00:05,416 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 15:00:05,416 - trainer - INFO -     masked_rmse_np : 0.6539179262656131
+2023-12-13 15:00:05,417 - trainer - INFO -     val_loss       : 99.07512435913085
+2023-12-13 15:00:05,417 - trainer - INFO -     val_masked_mae_np: 0.05668020900338888
+2023-12-13 15:00:05,417 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 15:00:05,417 - trainer - INFO -     val_masked_rmse_np: 0.11295183897018432
+2023-12-13 15:00:05,418 - trainer - INFO -     Time           : 6.1296s
+2023-12-13 15:00:05,429 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch9.pth ...
+2023-12-13 15:00:12,004 - trainer - INFO -     epoch          : 10
+2023-12-13 15:00:12,005 - trainer - INFO -     loss           : 486.4782027947275
+2023-12-13 15:00:12,005 - trainer - INFO -     masked_mae_np  : 0.2783109029926556
+2023-12-13 15:00:12,005 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 15:00:12,006 - trainer - INFO -     masked_rmse_np : 0.6575685257435238
+2023-12-13 15:00:12,006 - trainer - INFO -     val_loss       : 38.982661437988284
+2023-12-13 15:00:12,006 - trainer - INFO -     val_masked_mae_np: 0.022301717661321163
+2023-12-13 15:00:12,006 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 15:00:12,006 - trainer - INFO -     val_masked_rmse_np: 0.08423691540956497
+2023-12-13 15:00:12,007 - trainer - INFO -     Time           : 6.2322s
+2023-12-13 15:00:12,018 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch10.pth ...
+2023-12-13 15:00:18,493 - trainer - INFO -     epoch          : 11
+2023-12-13 15:00:18,493 - trainer - INFO -     loss           : 459.10613460289807
+2023-12-13 15:00:18,493 - trainer - INFO -     masked_mae_np  : 0.2626515282226089
+2023-12-13 15:00:18,494 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 15:00:18,494 - trainer - INFO -     masked_rmse_np : 0.6448528215803794
+2023-12-13 15:00:18,494 - trainer - INFO -     val_loss       : 192.9505874633789
+2023-12-13 15:00:18,494 - trainer - INFO -     val_masked_mae_np: 0.11038572937250138
+2023-12-13 15:00:18,494 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 15:00:18,495 - trainer - INFO -     val_masked_rmse_np: 0.13085652366280556
+2023-12-13 15:00:18,495 - trainer - INFO -     Time           : 6.1371s
+2023-12-13 15:00:18,507 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_145905\checkpoint-epoch11.pth ...
+2023-12-13 15:00:25,130 - trainer - INFO -     epoch          : 12
+2023-12-13 15:00:25,131 - trainer - INFO -     loss           : 488.4326855195196
+2023-12-13 15:00:25,131 - trainer - INFO -     masked_mae_np  : 0.27942904952521386
+2023-12-13 15:00:25,131 - trainer - INFO -     masked_mape_np : inf
+2023-12-13 15:00:25,132 - trainer - INFO -     masked_rmse_np : 0.6559691808437683
+2023-12-13 15:00:25,132 - trainer - INFO -     val_loss       : 123.2964485168457
+2023-12-13 15:00:25,132 - trainer - INFO -     val_masked_mae_np: 0.07053706385195255
+2023-12-13 15:00:25,132 - trainer - INFO -     val_masked_mape_np: inf
+2023-12-13 15:00:25,132 - trainer - INFO -     val_masked_rmse_np: 0.111773082613945
+2023-12-13 15:00:25,133 - trainer - INFO -     Time           : 6.2754s
+2023-12-13 15:00:25,133 - trainer - INFO - Validation performance didn't improve for 10 epochs. Training stops.
+2023-12-13 15:00:25,133 - trainer - INFO - Average training time: 0.7443s

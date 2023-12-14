@@ -3,38 +3,20 @@ import torch
 from torch.autograd import Variable
 
 class Consecutive_dataloader(object):
-    def __init__(self, data, train, valid, device, horizon, window, prediction_window,normalize=2):
+    def __init__(self, data, train, valid, device, horizon, window, prediction_window):
         self.P = window
         self.prediction_window = prediction_window
         self.h = horizon
         self.predict_data = None
         self.rawdat = data
-        self.dat = np.zeros(self.rawdat.shape)
+        self.dat = data
         self.n, self.m = self.dat.shape
-        self.normalize = normalize
         self.scale = np.ones(self.m)
-        self._normalized(normalize)
         self._split(int(train * self.n), int((train + valid) * self.n), self.n)
         self.scale = torch.from_numpy(self.scale).float()
-
         self.scale = self.scale.to(device)
         self.scale = Variable(self.scale)
         self.device = device
-
-    def _normalized(self, normalize):
-        # normalized by the maximum value of entire matrix.
-
-        if (normalize == 0):
-            self.dat = self.rawdat
-
-        if (normalize == 1):
-            self.dat = self.rawdat / np.max(self.rawdat)
-
-        # normlized by the maximum value of each row(sensor).
-        if (normalize == 2):
-            for i in range(self.m):
-                self.scale[i] = np.max(np.abs(self.rawdat[:, i]))
-                self.dat[:, i] = self.rawdat[:, i] / self.scale[i]
 
     def _split(self, train, valid, test):
         train_set = range(self.P + self.h - 1, train)
@@ -115,6 +97,28 @@ def mape_loss(output, target):
     loss = torch.abs((target - output) / (target+1))
     return torch.mean(loss)
 
+class Scaler:
+    def __init__(self):
+        self.mean = None
+        self.std = None
 
+    def fit(self, tensor):
+        # Compute the mean and std along the batch and sequence dimensions
+        self.mean = tensor.mean(dim=[0, 1], keepdim=True)
+        self.std = tensor.std(dim=[0, 1], keepdim=True)
 
+    def transform(self, tensor):
+        # Check if the scaler is fitted
+        if self.mean is None or self.std is None:
+            raise RuntimeError("Scaler has not been fitted.")
 
+        # Perform standard scaling
+        return (tensor - self.mean) / self.std
+
+    def restore(self, tensor):
+        # Check if the scaler is fitted
+        if self.mean is None or self.std is None:
+            raise RuntimeError("Scaler has not been fitted.")
+
+        # Reverse the scaling
+        return tensor * self.std + self.mean

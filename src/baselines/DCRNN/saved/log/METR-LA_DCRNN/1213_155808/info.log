@@ -1,0 +1,36 @@
+2023-12-13 15:58:08,665 - train - INFO - DCRNNModel(
+  (encoder): DCRNNEncoder(
+    (encoding_cells): ModuleList(
+      (0-1): 2 x DCGRUCell(
+        (dconv_gate): DiffusionGraphConv()
+        (dconv_candidate): DiffusionGraphConv()
+      )
+    )
+  )
+  (decoder): DCGRUDecoder(
+    (decoding_cells): ModuleList(
+      (0): DCGRUCell(
+        (dconv_gate): DiffusionGraphConv()
+        (dconv_candidate): DiffusionGraphConv()
+      )
+      (1): DCGRUCell(
+        (dconv_gate): DiffusionGraphConv()
+        (dconv_candidate): DiffusionGraphConv()
+        (project): Linear(in_features=64, out_features=1, bias=True)
+      )
+    )
+  )
+)
+Trainable parameters: 371393
+2023-12-13 15:58:36,631 - trainer - INFO -     epoch          : 1
+2023-12-13 15:58:36,642 - trainer - INFO -     loss           : 1139.7702389767296
+2023-12-13 15:58:36,642 - trainer - INFO -     masked_mae_np  : 1139.6606975354646
+2023-12-13 15:58:36,642 - trainer - INFO -     masked_mape_np : 4.568774972460529e+34
+2023-12-13 15:58:36,642 - trainer - INFO -     masked_rmse_np : 1855.2349644711144
+2023-12-13 15:58:36,643 - trainer - INFO -     val_loss       : 341.45350952148436
+2023-12-13 15:58:36,643 - trainer - INFO -     val_masked_mae_np: 341.45349578857423
+2023-12-13 15:58:36,643 - trainer - INFO -     val_masked_mape_np: 0.7371018707752228
+2023-12-13 15:58:36,643 - trainer - INFO -     val_masked_rmse_np: 597.4298706054688
+2023-12-13 15:58:36,644 - trainer - INFO -     Time           : 6.3993s
+2023-12-13 15:58:36,655 - trainer - INFO - Saving checkpoint: saved\models\METR-LA_DCRNN\1213_155808\checkpoint-epoch1.pth ...
+2023-12-13 15:58:36,665 - trainer - INFO - Saving current best: model_best.pth ...
