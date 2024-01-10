@@ -7,7 +7,7 @@ import torch
 import multiprocessing
 
 if __name__ == '__main__':
-    # 85 weeks of 49 states
+    # 111 weeks of 49 states
     cases = pd.read_csv('weekly_filt_case_state_wise_data.csv')
     cases = cases.iloc[:, 2:]  # remove first 2 columns, first is state name, second is FIPS code
     cases = cases.T.values # size: timestamps * num_instances
