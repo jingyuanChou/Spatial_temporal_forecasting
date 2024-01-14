@@ -20,16 +20,24 @@ if __name__ == '__main__':
                     source_process = source[0]
                     source_process_lag = source[1]
                     source_te = selected_sources_te[idx]
-                    index_ls = list(range(1, source_process_lag+1)) # lags start from 1
-                    selected_index = [12-ind-1 for ind in index_ls]
-                    MTE_static_matrices[selected_index, source_process, target] = source_te # fix this one, should be all the stuff
+                    if source_process_lag == 0:
+                        MTE_static_matrices[
+                            11, source_process, target] = source_te
+                    else:
+                        index_ls = list(range(0, source_process_lag)) # lags start from 1
+                        selected_index = [11-ind-1 for ind in index_ls]
+                        MTE_static_matrices[selected_index, source_process, target] = source_te # fix this one, should be all the stuff
             if len(selected_target_past) != 0:
                 for idx2, target_past in enumerate(selected_target_past):
-                    target_p = target_past[0]
-                    target_process_lag = 12 - target_past[1]
-                    index_ls = list(range(0, target_process_lag))
-                    selected_index = [12-ind-1 for ind in index_ls]
-                    MTE_static_matrices[selected_index, target_p, target] = 1
+                    target_process = target_past[0]
+                    target_process_lag = target_past[1]
+                    if target_process_lag == 0:
+                        MTE_static_matrices[
+                            11, target_process, target] = 1
+                    else:
+                        index_ls = list(range(0, target_process_lag)) # lags start from 1
+                        selected_index = [11-ind-1 for ind in index_ls]
+                        MTE_static_matrices[selected_index, target_process, target] = 1
 
         MTE_static_matrices = MTE_static_matrices.numpy()
 
