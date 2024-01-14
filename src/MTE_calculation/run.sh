@@ -1,5 +1,5 @@
 #!/bin/bash
-time_list="short_time_range_file.txt"
+time_list="time_range_file.txt"
 while IFS= read -r t
 do
     echo $t
