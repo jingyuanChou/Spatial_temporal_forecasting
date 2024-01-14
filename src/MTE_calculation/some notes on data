@@ -1,0 +1,9 @@
+Data is 51 states from July of 2020 to end of March of 2022, total 91 weeks
+
+so basically, for Multivariate TE calculation, we need to obtain the MTE for every timestamp, for example 
+
+choose 24 as starting point and set 12 as lag
+
+so we calculate MTE for 
+
+51 * (0-24), and next timestamp, we have 51 * (0-25), until we reach the end, the maximum input for the MultivariateTE is 51 * 91, the whole dataset
