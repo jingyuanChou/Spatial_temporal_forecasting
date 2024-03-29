@@ -1,0 +1,2602 @@
+state1,state2,distance
+Alabama,Alabama,0.0
+Alabama,Alaska,3476.952448925013
+Alabama,Arizona,1433.4601571654339
+Alabama,Arkansas,354.17048999954363
+Alabama,California,1867.2416008662124
+Alabama,Colorado,1131.6137768840006
+Alabama,Connecticut,986.1736438834139
+Alabama,Delaware,765.1844126058937
+Alabama,District of Columbia,693.655918602991
+Alabama,Florida,386.7328758336575
+Alabama,Georgia,197.48790370515675
+Alabama,Hawaii,4317.927115844646
+Alabama,Idaho,1691.49762963289
+Alabama,Illinois,517.7850121820012
+Alabama,Indiana,491.5170443770248
+Alabama,Iowa,737.9400950040136
+Alabama,Kansas,759.2820311167027
+Alabama,Kentucky,339.0031754353686
+Alabama,Louisiana,325.7129074375562
+Alabama,Maine,1278.6362479528248
+Alabama,Maryland,709.2481892038426
+Alabama,Massachusetts,1049.9756176464837
+Alabama,Michigan,801.5330362200334
+Alabama,Minnesota,1012.3078390288449
+Alabama,Mississippi,165.33445966983797
+Alabama,Missouri,498.1584422486079
+Alabama,Montana,1551.080494877842
+Alabama,Nebraska,934.5891402478613
+Alabama,Nevada,1719.8886653920197
+Alabama,New Hampshire,1116.230172874942
+Alabama,New Jersey,846.737193665687
+Alabama,New Mexico,1116.1904639092159
+Alabama,New York,933.2471112520049
+Alabama,North Carolina,467.11314440417624
+Alabama,North Dakota,1239.5313417222858
+Alabama,Ohio,564.0422141898638
+Alabama,Oklahoma,640.487394748614
+Alabama,Oregon,1969.553573073945
+Alabama,Pennsylvania,749.0525521268635
+Alabama,Rhode Island,1039.3519533569654
+Alabama,South Carolina,351.9076099094892
+Alabama,South Dakota,1080.232672213162
+Alabama,Tennessee,213.9546177850456
+Alabama,Texas,738.1095030592563
+Alabama,Utah,1456.4785162747867
+Alabama,Vermont,1090.974086248815
+Alabama,Virginia,557.0996276168297
+Alabama,Washington,2024.1997435405128
+Alabama,West Virginia,533.6367905212943
+Alabama,Wisconsin,834.5848314811676
+Alabama,Wyoming,1328.3585911208438
+Alaska,Alabama,3476.952448925013
+Alaska,Alaska,0.0
+Alaska,Arizona,2675.275492364122
+Alaska,Arkansas,3183.9792437000524
+Alaska,California,2299.9053522442355
+Alaska,Colorado,2559.799212080206
+Alaska,Connecticut,3391.636927840334
+Alaska,Delaware,3458.89801211404
+Alaska,District of Columbia,3418.1126379226976
+Alaska,Florida,3855.474871987318
+Alaska,Georgia,3587.490225290467
+Alaska,Hawaii,3027.5788079227464
+Alaska,Idaho,1995.1693094327077
+Alaska,Illinois,2985.089888839109
+Alaska,Indiana,3081.825823474894
+Alaska,Iowa,2740.60491803234
+Alaska,Kansas,2797.7372989704377
+Alaska,Kentucky,3246.2273763625662
+Alaska,Louisiana,3423.4662951995333
+Alaska,Maine,3282.6661775511416
+Alaska,Maryland,3416.5507662983323
+Alaska,Massachusetts,3382.6351589730943
+Alaska,Michigan,2860.1456894661437
+Alaska,Minnesota,2486.024623978533
+Alaska,Mississippi,3394.038860625284
+Alaska,Missouri,2982.588290434651
+Alaska,Montana,1985.7359145006203
+Alaska,Nebraska,2581.687314942871
+Alaska,Nevada,2238.4831721567703
+Alaska,New Hampshire,3309.2876050304394
+Alaska,New Jersey,3415.1656614439744
+Alaska,New Mexico,2816.712563249706
+Alaska,New York,3233.6852803712154
+Alaska,North Carolina,3539.958984356184
+Alaska,North Dakota,2237.4216687785347
+Alaska,Ohio,3165.365610663085
+Alaska,Oklahoma,2993.2459905763994
+Alaska,Oregon,1861.858429918222
+Alaska,Pennsylvania,3282.5493767914027
+Alaska,Rhode Island,3423.1016997237357
+Alaska,South Carolina,3589.822809806707
+Alaska,South Dakota,2406.7357219409387
+Alaska,Tennessee,3311.3201344818026
+Alaska,Texas,3184.662400330291
+Alaska,Utah,2370.852191889702
+Alaska,Vermont,3255.821974006857
+Alaska,Virginia,3442.3741527467246
+Alaska,Washington,1663.9169677534526
+Alaska,West Virginia,3324.6418015658282
+Alaska,Wisconsin,2706.157416250119
+Alaska,Wyoming,2271.7263880900177
+Arizona,Alabama,1433.4601571654339
+Arizona,Alaska,2675.275492364122
+Arizona,Arizona,0.0
+Arizona,Arkansas,1094.7361967228703
+Arizona,California,482.45972563080073
+Arizona,Colorado,470.3409495435082
+Arizona,Connecticut,2166.364244844621
+Arizona,Delaware,2021.9438970626848
+Arizona,District of Columbia,1940.833547866452
+Arizona,Florida,1761.986117505982
+Arizona,Georgia,1628.7298801305687
+Arizona,Hawaii,2887.9773040173554
+Arizona,Idaho,712.7811719146346
+Arizona,Illinois,1297.9525614064441
+Arizona,Indiana,1449.149023632164
+Arizona,Iowa,1122.5398797099297
+Arizona,Kansas,794.5310702553741
+Arizona,Kentucky,1490.4816611341446
+Arizona,Louisiana,1165.188914492914
+Arizona,Maine,2351.7863303874014
+Arizona,Maryland,1952.6461336112088
+Arizona,Massachusetts,2214.3354575497224
+Arizona,Michigan,1559.6041693669438
+Arizona,Minnesota,1230.8291480569565
+Arizona,Mississippi,1271.686938108764
+Arizona,Missouri,1105.5670968474853
+Arizona,Montana,888.0527606841646
+Arizona,Nebraska,818.0405810069661
+Arizona,Nevada,444.2022127297277
+Arizona,New Hampshire,2229.362037278989
+Arizona,New Jersey,2064.4235338334643
+Arizona,New Mexico,317.2763526619121
+Arizona,New York,2027.4632656753124
+Arizona,North Carolina,1826.4539335122581
+Arizona,North Dakota,1079.4076833727806
+Arizona,Ohio,1635.8334061116232
+Arizona,Oklahoma,808.5874804138907
+Arizona,Oregon,819.0940085022584
+Arizona,Pennsylvania,1900.7922324863957
+Arizona,Rhode Island,2226.9995592695986
+Arizona,South Carolina,1757.4020967647753
+Arizona,South Dakota,929.3472074004937
+Arizona,Tennessee,1434.6541137542451
+Arizona,Texas,741.8793416735231
+Arizona,Utah,346.92496207911705
+Arizona,Vermont,2177.0983667433406
+Arizona,Virginia,1844.5299757231658
+Arizona,Washington,1013.4530139484671
+Arizona,West Virginia,1746.2178420235043
+Arizona,Wisconsin,1354.6396341318425
+Arizona,Wyoming,641.1139907792694
+Arkansas,Alabama,354.17048999954363
+Arkansas,Alaska,3183.9792437000524
+Arkansas,Arizona,1094.7361967228703
+Arkansas,Arkansas,0.0
+Arkansas,California,1516.503429186347
+Arkansas,Colorado,777.669805747722
+Arkansas,Connecticut,1164.828467213048
+Arkansas,Delaware,977.4370105551982
+Arkansas,District of Columbia,896.8283177660111
+Arkansas,Florida,728.885189825425
+Arkansas,Georgia,540.5742869493779
+Arkansas,Hawaii,3982.7111451983073
+Arkansas,Idaho,1344.5857218844676
+Arkansas,Illinois,397.259156448089
+Arkansas,Indiana,483.3131482079856
+Arkansas,Iowa,498.6058752100893
+Arkansas,Kansas,412.56345505680815
+Arkansas,Kentucky,438.38514575823626
+Arkansas,Louisiana,264.8519575702034
+Arkansas,Maine,1417.7877353518122
+Arkansas,Maryland,910.8599635529292
+Arkansas,Massachusetts,1223.1686280558083
+Arkansas,Michigan,751.6848915505938
+Arkansas,Minnesota,791.7307153420936
+Arkansas,Mississippi,218.13584380497258
+Arkansas,Missouri,238.77549993406038
+Arkansas,Montana,1224.648581041883
+Arkansas,Nebraska,607.8451221218771
+Arkansas,Nevada,1366.0176508367556
+Arkansas,New Hampshire,1266.9596676757237
+Arkansas,New Jersey,1039.6731677520258
+Arkansas,New Mexico,778.8159007182804
+Arkansas,New York,1064.6642919522283
+Arkansas,North Carolina,739.3594515997598
+Arkansas,North Dakota,960.9279020397568
+Arkansas,Ohio,646.4300950417969
+Arkansas,Oklahoma,289.66375792662865
+Arkansas,Oregon,1618.5687604960137
+Arkansas,Pennsylvania,898.9017602642227
+Arkansas,Rhode Island,1224.0565903248985
+Arkansas,South Carolina,662.7008191453411
+Arkansas,South Dakota,777.8351225782434
+Arkansas,Tennessee,350.2798400057474
+Arkansas,Texas,463.3208716941494
+Arkansas,Utah,1102.3519630679252
+Arkansas,Vermont,1227.4722116852822
+Arkansas,Virginia,779.8593606320925
+Arkansas,Washington,1682.4846051793088
+Arkansas,West Virginia,704.1267747783025
+Arkansas,Wisconsin,683.7684746569902
+Arkansas,Wyoming,984.8650030318876
+California,Alabama,1867.2416008662124
+California,Alaska,2299.9053522442355
+California,Arizona,482.45972563080073
+California,Arkansas,1516.503429186347
+California,California,0.0
+California,Colorado,768.309708274419
+California,Connecticut,2489.6455642948054
+California,Delaware,2376.4356850585023
+California,District of Columbia,2297.6229406938596
+California,Florida,2215.862502177098
+California,Georgia,2057.07397233118
+California,Hawaii,2501.9299116108964
+California,Idaho,556.0466104258181
+California,Illinois,1642.1901780501541
+California,Indiana,1797.2579850731634
+California,Iowa,1420.1045918475872
+California,Kansas,1154.4873070640579
+California,Kentucky,1870.5165040181348
+California,Louisiana,1623.7889090062679
+California,Maine,2630.762176664011
+California,Maryland,2307.628845346802
+California,Massachusetts,2529.911177863115
+California,Michigan,1839.3213945932002
+California,Minnesota,1436.052543875623
+California,Mississippi,1711.5508665538819
+California,Missouri,1475.7255524379968
+California,Montana,846.7190729343948
+California,Nebraska,1092.8386662238713
+California,Nevada,213.7854653576086
+California,New Hampshire,2528.5289739217196
+California,New Jersey,2405.041785283394
+California,New Mexico,773.5502320444357
+California,New York,2335.951562038262
+California,North Carolina,2221.1858316983316
+California,North Dakota,1198.6993879185259
+California,Ohio,1978.8295412241116
+California,Oklahoma,1227.3009685762183
+California,Oregon,469.21713079821757
+California,Pennsylvania,2235.2160377521445
+California,Rhode Island,2548.92654396948
+California,South Carolina,2169.958376450186
+California,South Dakota,1122.5951329074635
+California,Tennessee,1836.1126880934921
+California,Texas,1214.042461956615
+California,Utah,448.579321531918
+California,Vermont,2471.8400328920075
+California,Virginia,2218.3730595737525
+California,Washington,705.6787199973116
+California,West Virginia,2109.1124453949396
+California,Wisconsin,1615.9583015563076
+California,Wyoming,746.9914553958641
+Colorado,Alabama,1131.6137768840006
+Colorado,Alaska,2559.799212080206
+Colorado,Arizona,470.3409495435082
+Colorado,Arkansas,777.669805747722
+Colorado,California,768.309708274419
+Colorado,Colorado,0.0
+Colorado,Connecticut,1732.5226169893365
+Colorado,Delaware,1609.8196826221217
+Colorado,District of Columbia,1530.503752144247
+Colorado,Florida,1502.494979018013
+Colorado,Georgia,1312.2847561016536
+Colorado,Hawaii,3268.957841258251
+Colorado,Idaho,596.4795790618391
+Colorado,Illinois,875.4001559211425
+Colorado,Indiana,1030.3630308687505
+Colorado,Iowa,668.354764847317
+Colorado,Kansas,388.63162741782344
+Colorado,Kentucky,1103.261017459923
+Colorado,Louisiana,941.1884904734623
+Colorado,Maine,1897.617807941879
+Colorado,Maryland,1540.8076453927283
+Colorado,Massachusetts,1776.2235839931418
+Colorado,Michigan,1102.024217949025
+Colorado,Minnesota,760.9023125248785
+Colorado,Mississippi,988.2947571854322
+Colorado,Missouri,708.5453215404042
+Colorado,Montana,593.1001284191967
+Colorado,Nebraska,350.84853852266855
+Colorado,Nevada,595.2827500448884
+Colorado,New Hampshire,1783.0229282956511
+Colorado,New Jersey,1641.6752026928157
+Colorado,New Mexico,318.05772783999936
+Colorado,New York,1584.8897898276773
+Colorado,North Carolina,1455.8687096376989
+Colorado,North Dakota,637.073767571907
+Colorado,Ohio,1213.558154211477
+Colorado,Oklahoma,501.84882844753196
+Colorado,Oregon,848.7685997671483
+Colorado,Pennsylvania,1473.2026285735094
+Colorado,Rhode Island,1792.5465832250818
+Colorado,South Carolina,1412.2430723734449
+Colorado,South Dakota,465.6316469670749
+Colorado,Tennessee,1075.6234109865363
+Colorado,Texas,626.1061545851828
+Colorado,Utah,329.47702059550573
+Colorado,Vermont,1728.5829591439676
+Colorado,Virginia,1450.0899488005389
+Colorado,Washington,946.7151166974213
+Colorado,West Virginia,1341.0642199240995
+Colorado,Wisconsin,890.0798490629503
+Colorado,Wyoming,295.1054564747658
+Connecticut,Alabama,986.1736438834139
+Connecticut,Alaska,3391.636927840334
+Connecticut,Arizona,2166.364244844621
+Connecticut,Arkansas,1164.828467213048
+Connecticut,California,2489.6455642948054
+Connecticut,Colorado,1732.5226169893365
+Connecticut,Connecticut,0.0
+Connecticut,Delaware,233.45686859066652
+Connecticut,District of Columbia,293.8031670160257
+Connecticut,Florida,1049.6769601361127
+Connecticut,Georgia,855.1152935596042
+Connecticut,Hawaii,4986.890804308371
+Connecticut,Idaho,2107.8592742949113
+Connecticut,Illinois,868.6871744517441
+Connecticut,Indiana,720.3301858755478
+Connecticut,Iowa,1069.546399182393
+Connecticut,Kansas,1371.8363283897868
+Connecticut,Kentucky,727.2275861846044
+Connecticut,Louisiana,1293.1791630684208
+Connecticut,Maine,312.34402094206865
+Connecticut,Maryland,278.1509936268759
+Connecticut,Massachusetts,64.64876288368384
+Connecticut,Michigan,668.9289243170263
+Connecticut,Minnesota,1119.2798491054516
+Connecticut,Mississippi,1114.5063493741973
+Connecticut,Missouri,1068.5265253329433
+Connecticut,Montana,1848.8834115294092
+Connecticut,Nebraska,1396.8096427608068
+Connecticut,Nevada,2293.7249260756976
+Connecticut,New Hampshire,153.625410456243
+Connecticut,New Jersey,141.86355697088604
+Connecticut,New Mexico,1875.499907357835
+Connecticut,New York,170.38057209626803
+Connecticut,North Carolina,551.9843872506589
+Connecticut,North Dakota,1419.2058924350156
+Connecticut,Ohio,534.3079353596571
+Connecticut,Oklahoma,1397.9623684994026
+Connecticut,Oregon,2403.194064052347
+Connecticut,Pennsylvania,269.0687367528387
+Connecticut,Rhode Island,60.73487207160629
+Connecticut,South Carolina,693.8482205181132
+Connecticut,South Dakota,1399.373708923533
+Connecticut,Tennessee,835.0991692360808
+Connecticut,Texas,1628.1234028258802
+Connecticut,Utah,2041.088387982179
+Connecticut,Vermont,168.9264884215059
+Connecticut,Virginia,432.24183652780937
+Connecticut,Washington,2353.4975909398418
+Connecticut,West Virginia,465.7264467590392
+Connecticut,Wisconsin,895.5119773271296
+Connecticut,Wyoming,1773.7931193592296
+Delaware,Alabama,765.1844126058937
+Delaware,Alaska,3458.89801211404
+Delaware,Arizona,2021.9438970626848
+Delaware,Arkansas,977.4370105551982
+Delaware,California,2376.4356850585023
+Delaware,Colorado,1609.8196826221217
+Delaware,Connecticut,233.45686859066652
+Delaware,Delaware,0.0
+Delaware,District of Columbia,81.50394120519272
+Delaware,Florida,817.5062268811732
+Delaware,Georgia,624.1841139204961
+Delaware,Hawaii,4878.309844382776
+Delaware,Idaho,2037.2668773333694
+Delaware,Illinois,734.4523389721251
+Delaware,Indiana,579.4566747236832
+Delaware,Iowa,968.8338947140363
+Delaware,Kansas,1233.002602405565
+Delaware,Kentucky,541.8655645816488
+Delaware,Louisiana,1080.3620118501035
+Delaware,Maine,544.821255165549
+Delaware,Maryland,69.34093155130385
+Delaware,Massachusetts,297.7334550422825
+Delaware,Michigan,631.253097625279
+Delaware,Minnesota,1078.512041235664
+Delaware,Mississippi,902.732350568627
+Delaware,Missouri,916.4306421067912
+Delaware,Montana,1799.5322277564787
+Delaware,Nebraska,1291.5254862367499
+Delaware,Nevada,2189.392796084717
+Delaware,New Hampshire,382.5754308527318
+Delaware,New Jersey,94.01667872095942
+Delaware,New Mexico,1720.2581217826473
+Delaware,New York,273.55358122502446
+Delaware,North Carolina,319.0941771086893
+Delaware,North Dakota,1380.8532965286222
+Delaware,Ohio,398.81188433276606
+Delaware,Oklahoma,1230.8949375433472
+Delaware,Oregon,2334.192236311603
+Delaware,Pennsylvania,178.39298571223117
+Delaware,Rhode Island,278.9348373738002
+Delaware,South Carolina,460.8165925438963
+Delaware,South Dakota,1326.7556265159628
+Delaware,Tennessee,633.8999409645194
+Delaware,Texas,1438.4837734664243
+Delaware,Utah,1929.599786272133
+Delaware,Vermont,380.1225702670124
+Delaware,Virginia,208.36015401953617
+Delaware,Washington,2308.5388520301267
+Delaware,West Virginia,277.1943772820776
+Delaware,Wisconsin,841.4948316819476
+Delaware,Wyoming,1687.6558629241833
+District of Columbia,Alabama,693.655918602991
+District of Columbia,Alaska,3418.1126379226976
+District of Columbia,Arizona,1940.833547866452
+District of Columbia,Arkansas,896.8283177660111
+District of Columbia,California,2297.6229406938596
+District of Columbia,Colorado,1530.503752144247
+District of Columbia,Connecticut,293.8031670160257
+District of Columbia,Delaware,81.50394120519272
+District of Columbia,District of Columbia,0.0
+District of Columbia,Florida,774.0719707111491
+District of Columbia,Georgia,562.8728918963232
+District of Columbia,Hawaii,4799.322318602957
+District of Columbia,Idaho,1964.7278341937258
+District of Columbia,Illinois,655.4328985250635
+District of Columbia,Indiana,500.36533970052517
+District of Columbia,Iowa,893.6753018868274
+District of Columbia,Kansas,1152.5787295531659
+District of Columbia,Kentucky,460.6213122892939
+District of Columbia,Louisiana,1005.2095525665494
+District of Columbia,Maine,597.8698399291067
+District of Columbia,Maryland,15.655615158298714
+District of Columbia,Massachusetts,358.24467369293694
+District of Columbia,Michigan,573.6918424020437
+District of Columbia,Minnesota,1014.8289054048794
+District of Columbia,Mississippi,827.0322283800755
+District of Columbia,Missouri,835.415342176841
+District of Columbia,Montana,1731.3685658928543
+District of Columbia,Nebraska,1214.734084729455
+District of Columbia,Nevada,2111.697542028036
+District of Columbia,New Hampshire,433.7810948587011
+District of Columbia,New Jersey,153.12112383228603
+District of Columbia,New Mexico,1638.8287279993694
+District of Columbia,New York,289.68160459690824
+District of Columbia,North Carolina,265.7388864152258
+District of Columbia,North Dakota,1316.213953949192
+District of Columbia,Ohio,322.63872683319966
+District of Columbia,Oklahoma,1149.3979090075595
+District of Columbia,Oregon,2261.5908987739763
+District of Columbia,Pennsylvania,142.03801622859743
+District of Columbia,Rhode Island,345.7136210262497
+District of Columbia,South Carolina,406.5097188785211
+District of Columbia,South Dakota,1255.2486484629642
+District of Columbia,Tennessee,554.8439240897264
+District of Columbia,Texas,1358.393682870103
+District of Columbia,Utah,1851.238672131925
+District of Columbia,Vermont,421.35251756697056
+District of Columbia,Virginia,138.5116395117612
+District of Columbia,Washington,2240.4311356752487
+District of Columbia,West Virginia,195.6904394138613
+District of Columbia,Wisconsin,776.6192572689732
+District of Columbia,Wyoming,1613.0332518448365
+Florida,Alabama,386.7328758336575
+Florida,Alaska,3855.474871987318
+Florida,Arizona,1761.986117505982
+Florida,Arkansas,728.885189825425
+Florida,California,2215.862502177098
+Florida,Colorado,1502.494979018013
+Florida,Connecticut,1049.6769601361127
+Florida,Delaware,817.5062268811732
+Florida,District of Columbia,774.0719707111491
+Florida,Florida,0.0
+Florida,Georgia,282.5611786177709
+Florida,Hawaii,4621.924269259685
+Florida,Idaho,2073.129914785159
+Florida,Illinois,875.3587621340305
+Florida,Indiana,806.5236302910415
+Florida,Iowa,1115.0906749285302
+Florida,Kansas,1140.3659413880955
+Florida,Kentucky,635.448678594436
+Florida,Louisiana,597.1027568919824
+Florida,Maine,1361.9249187096566
+Florida,Maryland,788.3031481117476
+Florida,Massachusetts,1112.9318764310133
+Florida,Michigan,1095.9465399806281
+Florida,Minnesota,1377.17904446819
+Florida,Mississippi,514.2631074374013
+Florida,Missouri,883.847718861653
+Florida,Montana,1937.805589473495
+Florida,Nebraska,1321.0505305431236
+Florida,Nevada,2081.5179410842115
+Florida,New Hampshire,1200.0783956912665
+Florida,New Jersey,911.3823558223794
+Florida,New Mexico,1448.3261743802877
+Florida,New York,1060.3502304582134
+Florida,North Carolina,509.76460075657417
+Florida,North Dakota,1619.4909005256877
+Florida,Ohio,803.6655748856217
+Florida,Oklahoma,1002.478680589804
+Florida,Oregon,2347.0027504502523
+Florida,Pennsylvania,884.3725342894891
+Florida,Rhode Island,1088.4558370137725
+Florida,South Carolina,375.60476206965
+Florida,South Dakota,1465.6342559238396
+Florida,Tennessee,547.7551784809748
+Florida,Texas,1029.2687593144515
+Florida,Utah,1821.6738800271196
+Florida,Vermont,1194.1294765445841
+Florida,Virginia,647.1074258564148
+Florida,Washington,2408.6825114993453
+Florida,West Virginia,697.8685565367346
+Florida,Wisconsin,1178.5443127711972
+Florida,Wyoming,1711.7661737440794
+Georgia,Alabama,197.48790370515675
+Georgia,Alaska,3587.490225290467
+Georgia,Arizona,1628.7298801305687
+Georgia,Arkansas,540.5742869493779
+Georgia,California,2057.07397233118
+Georgia,Colorado,1312.2847561016536
+Georgia,Connecticut,855.1152935596042
+Georgia,Delaware,624.1841139204961
+Georgia,District of Columbia,562.8728918963232
+Georgia,Florida,282.5611786177709
+Georgia,Georgia,0.0
+Georgia,Hawaii,4514.487407905297
+Georgia,Idaho,1857.5868513526757
+Georgia,Illinois,602.4689514481712
+Georgia,Indiana,524.5111340539353
+Georgia,Iowa,852.832499671161
+Georgia,Kansas,931.5966187999102
+Georgia,Kentucky,353.36843923444843
+Georgia,Louisiana,514.4263439533479
+Georgia,Maine,1160.460220551038
+Georgia,Maryland,578.363347329885
+Georgia,Massachusetts,919.7634124540098
+Georgia,Michigan,814.326386294909
+Georgia,Minnesota,1103.42258406011
+Georgia,Mississippi,362.76185164744703
+Georgia,Missouri,642.5345155171522
+Georgia,Montana,1697.852029501666
+Georgia,Nebraska,1089.0258343426638
+Georgia,Nevada,1904.4804263843844
+Georgia,New Hampshire,996.3360012425203
+Georgia,New Jersey,713.2589940218394
+Georgia,New Mexico,1311.4920470305576
+Georgia,New York,831.8411010483685
+Georgia,North Carolina,307.1943293257326
+Georgia,North Dakota,1357.2070699743388
+Georgia,Ohio,528.3530004791281
+Georgia,Oklahoma,829.9486498206137
+Georgia,Oregon,2141.022576691049
+Georgia,Pennsylvania,648.1703101847597
+Georgia,Rhode Island,903.0993806146189
+Georgia,South Carolina,171.5976219651862
+Georgia,South Dakota,1215.9827015526462
+Georgia,Tennessee,277.190959100928
+Georgia,Texas,934.886444433416
+Georgia,Utah,1639.7518988858137
+Georgia,Vermont,979.8781981668734
+Georgia,Virginia,425.0641073978259
+Georgia,Washington,2182.981662666373
+Georgia,West Virginia,442.9474456636449
+Georgia,Wisconsin,898.5740870705667
+Georgia,Wyoming,1492.1898580865557
+Hawaii,Alabama,4317.927115844646
+Hawaii,Alaska,3027.5788079227464
+Hawaii,Arizona,2887.9773040173554
+Hawaii,Arkansas,3982.7111451983073
+Hawaii,California,2501.9299116108964
+Hawaii,Colorado,3268.957841258251
+Hawaii,Connecticut,4986.890804308371
+Hawaii,Delaware,4878.309844382776
+Hawaii,District of Columbia,4799.322318602957
+Hawaii,Florida,4621.924269259685
+Hawaii,Georgia,4514.487407905297
+Hawaii,Hawaii,0.0
+Hawaii,Idaho,2905.8840949746627
+Hawaii,Illinois,4143.94131831012
+Hawaii,Indiana,4298.999469498504
+Hawaii,Iowa,3918.9976374546623
+Hawaii,Kansas,3651.19077306228
+Hawaii,Kentucky,4365.818344267574
+Hawaii,Louisiana,4030.07921126858
+Hawaii,Maine,5103.5593173356165
+Hawaii,Maryland,4809.446011848094
+Hawaii,Massachusetts,5024.233307089131
+Hawaii,Michigan,4326.664352714762
+Hawaii,Minnesota,3896.952693235179
+Hawaii,Mississippi,4154.127275858207
+Hawaii,Missouri,3972.3392929792685
+Hawaii,Montana,3195.934655841659
+Hawaii,Nebraska,3592.0321377669375
+Hawaii,Nevada,2693.3972144434697
+Hawaii,New Hampshire,5015.356582891513
+Hawaii,New Jersey,4906.297104653767
+Hawaii,New Mexico,3204.413447952754
+Hawaii,New York,4829.045320585428
+Hawaii,North Carolina,4710.4884380112
+Hawaii,North Dakota,3619.464009677015
+Hawaii,Ohio,4480.736358182932
+Hawaii,Oklahoma,3695.711700878532
+Hawaii,Oregon,2623.9176723674445
+Hawaii,Pennsylvania,4736.007638410286
+Hawaii,Rhode Island,5045.412089938247
+Hawaii,South Carolina,4645.346139238244
+Hawaii,South Dakota,3595.614350238081
+Hawaii,Tennessee,4319.976591053733
+Hawaii,Texas,3595.2598393664543
+Hawaii,Utah,2949.5143639219878
+Hawaii,Vermont,4956.983800930641
+Hawaii,Virginia,4716.884320044706
+Hawaii,Washington,2742.5601038219997
+Hawaii,West Virginia,4609.8201026905845
+Hawaii,Wisconsin,4099.915134295628
+Hawaii,Wyoming,3216.699946481766
+Idaho,Alabama,1691.49762963289
+Idaho,Alaska,1995.1693094327077
+Idaho,Arizona,712.7811719146346
+Idaho,Arkansas,1344.5857218844676
+Idaho,California,556.0466104258181
+Idaho,Colorado,596.4795790618391
+Idaho,Connecticut,2107.8592742949113
+Idaho,Delaware,2037.2668773333694
+Idaho,District of Columbia,1964.7278341937258
+Idaho,Florida,2073.129914785159
+Idaho,Georgia,1857.5868513526757
+Idaho,Hawaii,2905.8840949746627
+Idaho,Idaho,0.0
+Idaho,Illinois,1332.122675762588
+Idaho,Indiana,1480.018041016961
+Idaho,Iowa,1074.6772435083972
+Idaho,Kansas,932.8414268255254
+Idaho,Kentucky,1594.3814057956265
+Idaho,Louisiana,1532.2516019976356
+Idaho,Maine,2199.4561245731898
+Idaho,Maryland,1971.8728672909238
+Idaho,Massachusetts,2138.22263966258
+Idaho,Michigan,1439.107581260649
+Idaho,Minnesota,995.5941416992357
+Idaho,Mississippi,1561.5097557651634
+Idaho,Missouri,1219.4253382429583
+Idaho,Montana,304.66759066289325
+Idaho,Nebraska,774.9355494000204
+Idaho,Nevada,361.87685767310035
+Idaho,New Hampshire,2119.5409119825244
+Idaho,New Jersey,2046.8727889082252
+Idaho,New Mexico,822.1741466465945
+Idaho,New York,1943.0223833021528
+Idaho,North Carolina,1949.0736386128556
+Idaho,North Dakota,713.7727084557965
+Idaho,Ohio,1643.1843672999307
+Idaho,Oklahoma,1087.975849371049
+Idaho,Oregon,296.9262511756588
+Idaho,Pennsylvania,1876.1022209501398
+Idaho,Rhode Island,2163.7202276799244
+Idaho,South Carolina,1932.3224999569393
+Idaho,South Dakota,711.306741619699
+Idaho,Tennessee,1597.9630212110874
+Idaho,Texas,1214.8682051371604
+Idaho,Utah,379.8316737990431
+Idaho,Vermont,2060.081714831265
+Idaho,Virginia,1913.2654953450542
+Idaho,Washington,350.6666797523456
+Idaho,West Virginia,1793.4046333814624
+Idaho,Wisconsin,1212.366734813428
+Idaho,Wyoming,365.89632960183394
+Illinois,Alabama,517.7850121820012
+Illinois,Alaska,2985.089888839109
+Illinois,Arizona,1297.9525614064441
+Illinois,Arkansas,397.259156448089
+Illinois,California,1642.1901780501541
+Illinois,Colorado,875.4001559211425
+Illinois,Connecticut,868.6871744517441
+Illinois,Delaware,734.4523389721251
+Illinois,District of Columbia,655.4328985250635
+Illinois,Florida,875.3587621340305
+Illinois,Georgia,602.4689514481712
+Illinois,Hawaii,4143.94131831012
+Illinois,Idaho,1332.122675762588
+Illinois,Illinois,0.0
+Illinois,Indiana,155.0678837315885
+Illinois,Iowa,264.75603033847074
+Illinois,Kansas,503.66932623124615
+Illinois,Kentucky,272.1800584424167
+Illinois,Louisiana,638.3014829641045
+Illinois,Maine,1076.871126117771
+Illinois,Maryland,665.5126638071398
+Illinois,Massachusetts,918.113536741961
+Illinois,Michigan,354.9409337323866
+Illinois,Minnesota,501.8813507633555
+Illinois,Mississippi,504.3937614124155
+Illinois,Missouri,210.1200965287713
+Illinois,Montana,1130.145088626623
+Illinois,Nebraska,564.9652509484721
+Illinois,Nevada,1457.4135034999938
+Illinois,New Hampshire,940.8418588319278
+Illinois,New Jersey,768.5482506986588
+Illinois,New Mexico,1008.449619118063
+Illinois,New York,736.2018863785946
+Illinois,North Carolina,619.0214263669591
+Illinois,North Dakota,759.9847664738406
+Illinois,Ohio,339.27229612801733
+Illinois,Oklahoma,547.7210586630059
+Illinois,Oregon,1626.9481892424924
+Illinois,Pennsylvania,602.9907952394421
+Illinois,Rhode Island,929.3808290670106
+Illinois,South Carolina,623.3531588483831
+Illinois,South Dakota,641.3376179715488
+Illinois,Tennessee,327.69834460859585
+Illinois,Texas,819.3291853180168
+Illinois,Utah,1196.0437220007286
+Illinois,Vermont,892.7179526355442
+Illinois,Virginia,584.4530047307583
+Illinois,Washington,1632.2215296268635
+Illinois,West Virginia,469.1316441192121
+Illinois,Wisconsin,318.9209225017224
+Illinois,Wyoming,971.4844560891207
+Indiana,Alabama,491.5170443770248
+Indiana,Alaska,3081.825823474894
+Indiana,Arizona,1449.149023632164
+Indiana,Arkansas,483.3131482079856
+Indiana,California,1797.2579850731634
+Indiana,Colorado,1030.3630308687505
+Indiana,Connecticut,720.3301858755478
+Indiana,Delaware,579.4566747236832
+Indiana,District of Columbia,500.36533970052517
+Indiana,Florida,806.5236302910415
+Indiana,Georgia,524.5111340539353
+Indiana,Hawaii,4298.999469498504
+Indiana,Idaho,1480.018041016961
+Indiana,Illinois,155.0678837315885
+Indiana,Indiana,0.0
+Indiana,Iowa,405.99167485111144
+Indiana,Kansas,656.0830251652975
+Indiana,Kentucky,171.14323897065964
+Indiana,Louisiana,688.1115911777279
+Indiana,Maine,944.6880915582118
+Indiana,Maryland,510.4720123301228
+Indiana,Massachusetts,772.1746256363492
+Indiana,Michigan,310.5473502731347
+Indiana,Minnesota,598.6834727179605
+Indiana,Mississippi,528.3510373125248
+Indiana,Missouri,348.3192260506478
+Indiana,Montana,1267.6236863061258
+Indiana,Nebraska,717.7350329600115
+Indiana,Nevada,1612.112858472664
+Indiana,New Hampshire,801.6962079069372
+Indiana,New Jersey,615.4973250023669
+Indiana,New Mexico,1155.2466990778814
+Indiana,New York,596.6611002569911
+Indiana,North Carolina,481.5492946890984
+Indiana,North Dakota,879.4141137778524
+Indiana,Ohio,186.78420823176
+Indiana,Oklahoma,681.4130666125108
+Indiana,Oregon,1775.7670594205279
+Indiana,Pennsylvania,452.4531600919186
+Indiana,Rhode Island,781.0545671250682
+Indiana,South Carolina,508.5128568317584
+Indiana,South Dakota,780.4995071174887
+Indiana,Tennessee,278.3966363085147
+Indiana,Texas,933.9990709027757
+Indiana,Utah,1351.027029693555
+Indiana,Vermont,756.8683774233568
+Indiana,Virginia,433.3611253240144
+Indiana,Washington,1773.2075122202684
+Indiana,West Virginia,315.46346951884857
+Indiana,Wisconsin,377.81018785937664
+Indiana,Wyoming,1121.8039337119153
+Iowa,Alabama,737.9400950040136
+Iowa,Alaska,2740.60491803234
+Iowa,Arizona,1122.5398797099297
+Iowa,Arkansas,498.6058752100893
+Iowa,California,1420.1045918475872
+Iowa,Colorado,668.354764847317
+Iowa,Connecticut,1069.546399182393
+Iowa,Delaware,968.8338947140363
+Iowa,District of Columbia,893.6753018868274
+Iowa,Florida,1115.0906749285302
+Iowa,Georgia,852.832499671161
+Iowa,Hawaii,3918.9976374546623
+Iowa,Idaho,1074.6772435083972
+Iowa,Illinois,264.75603033847074
+Iowa,Indiana,405.99167485111144
+Iowa,Iowa,0.0
+Iowa,Kansas,357.19566025905846
+Iowa,Kentucky,536.4630157222898
+Iowa,Louisiana,763.4506860175567
+Iowa,Maine,1230.5549715601703
+Iowa,Maryland,901.8029339719839
+Iowa,Massachusetts,1110.6300743015754
+Iowa,Michigan,437.12055436349544
+Iowa,Minnesota,293.1384453380917
+Iowa,Mississippi,677.385001009244
+Iowa,Missouri,262.3653626721819
+Iowa,Montana,865.4778608681065
+Iowa,Nebraska,327.2958332752905
+Iowa,Nevada,1225.7400126229268
+Iowa,New Hampshire,1114.7932252961587
+Iowa,New Jersey,988.6040228244398
+Iowa,New Mexico,864.8657624513721
+Iowa,New York,917.8340405382563
+Iowa,North Carolina,882.573537598198
+Iowa,North Dakota,504.88516780672035
+Iowa,Ohio,571.0528110853636
+Iowa,Oklahoma,496.55432314306086
+Iowa,Oregon,1370.8800760517734
+Iowa,Pennsylvania,817.6674927042028
+Iowa,Rhode Island,1128.9053023577105
+Iowa,South Carolina,886.8559393782787
+Iowa,South Dakota,376.73868998624755
+Iowa,Tennessee,575.7530013625292
+Iowa,Texas,798.8408567032126
+Iowa,Utah,971.5421499120318
+Iowa,Vermont,1060.2281950536503
+Iowa,Virginia,838.7701826672239
+Iowa,Washington,1368.6198860755817
+Iowa,West Virginia,718.7510442184973
+Iowa,Wisconsin,249.14009367738598
+Iowa,Wyoming,719.4394949056895
+Kansas,Alabama,759.2820311167027
+Kansas,Alaska,2797.7372989704377
+Kansas,Arizona,794.5310702553741
+Kansas,Arkansas,412.56345505680815
+Kansas,California,1154.4873070640579
+Kansas,Colorado,388.63162741782344
+Kansas,Connecticut,1371.8363283897868
+Kansas,Delaware,1233.002602405565
+Kansas,District of Columbia,1152.5787295531659
+Kansas,Florida,1140.3659413880955
+Kansas,Georgia,931.5966187999102
+Kansas,Hawaii,3651.19077306228
+Kansas,Idaho,932.8414268255254
+Kansas,Illinois,503.66932623124615
+Kansas,Indiana,656.0830251652975
+Kansas,Iowa,357.19566025905846
+Kansas,Kansas,0.0
+Kansas,Kentucky,716.0792109612137
+Kansas,Louisiana,627.114428303853
+Kansas,Maine,1564.901145035886
+Kansas,Maryland,1163.6873729181234
+Kansas,Massachusetts,1420.009626624187
+Kansas,Michigan,784.1663666717022
+Kansas,Minnesota,576.2967121827942
+Kansas,Mississippi,630.4374766847383
+Kansas,Missouri,321.43290008005135
+Kansas,Montana,820.8831327346189
+Kansas,Nebraska,223.02085911315572
+Kansas,Nevada,983.6268593775684
+Kansas,New Hampshire,1437.3286635745299
+Kansas,New Jersey,1271.5275276102768
+Kansas,New Mexico,514.4052818148366
+Kansas,New York,1234.329491399401
+Kansas,North Carolina,1067.4680920856624
+Kansas,North Dakota,627.163511350086
+Kansas,Ohio,842.3456300872963
+Kansas,Oklahoma,206.21026003936987
+Kansas,Oregon,1210.7602131286023
+Kansas,Pennsylvania,1106.6594814939017
+Kansas,Rhode Island,1432.4687155694992
+Kansas,South Carolina,1024.7847542742152
+Kansas,South Dakota,421.65578370525435
+Kansas,Tennessee,687.6785248851824
+Kansas,Texas,486.77748695250614
+Kansas,Utah,717.9017829473231
+Kansas,Vermont,1386.359134050582
+Kansas,Virginia,1065.6968575524518
+Kansas,Washington,1269.9541942522037
+Kansas,West Virginia,960.189633313519
+Kansas,Wisconsin,605.9831782427415
+Kansas,Wyoming,572.3151276707111
+Kentucky,Alabama,339.0031754353686
+Kentucky,Alaska,3246.2273763625662
+Kentucky,Arizona,1490.4816611341446
+Kentucky,Arkansas,438.38514575823626
+Kentucky,California,1870.5165040181348
+Kentucky,Colorado,1103.261017459923
+Kentucky,Connecticut,727.2275861846044
+Kentucky,Delaware,541.8655645816488
+Kentucky,District of Columbia,460.6213122892939
+Kentucky,Florida,635.448678594436
+Kentucky,Georgia,353.36843923444843
+Kentucky,Hawaii,4365.818344267574
+Kentucky,Idaho,1594.3814057956265
+Kentucky,Illinois,272.1800584424167
+Kentucky,Indiana,171.14323897065964
+Kentucky,Iowa,536.4630157222898
+Kentucky,Kansas,716.0792109612137
+Kentucky,Kentucky,0.0
+Kentucky,Louisiana,587.2352793591817
+Kentucky,Maine,990.9315129639626
+Kentucky,Maryland,474.18313332644664
+Kentucky,Massachusetts,786.4934181793976
+Kentucky,Michigan,470.09670507744113
+Kentucky,Minnesota,760.3778287494379
+Kentucky,Mississippi,412.8433188315944
+Kentucky,Missouri,394.81738944938763
+Kentucky,Montana,1401.0702429606413
+Kentucky,Nebraska,820.7328010512481
+Kentucky,Nevada,1695.7580351088427
+Kentucky,New Hampshire,835.356969237181
+Kentucky,New Jersey,601.3613738044243
+Kentucky,New Mexico,1183.5435753015927
+Kentucky,New York,637.1992328906863
+Kentucky,North Carolina,356.1433991750612
+Kentucky,North Dakota,1030.3021948429478
+Kentucky,Ohio,233.00019461957365
+Kentucky,Oklahoma,690.8045121580427
+Kentucky,Oregon,1887.1196500544174
+Kentucky,Pennsylvania,463.7909147476135
+Kentucky,Rhode Island,786.1107859873695
+Kentucky,South Carolina,351.4203017133518
+Kentucky,South Dakota,912.3502697977374
+Kentucky,Tennessee,129.44343060560834
+Kentucky,Texas,901.5668555748877
+Kentucky,Utah,1430.9591566223235
+Kentucky,Vermont,800.00328943067
+Kentucky,Virginia,354.1064316004699
+Kentucky,Washington,1901.0108420528416
+Kentucky,West Virginia,266.2099309827742
+Kentucky,Wisconsin,546.904627959524
+Kentucky,Wyoming,1230.5689449781753
+Louisiana,Alabama,325.7129074375562
+Louisiana,Alaska,3423.4662951995333
+Louisiana,Arizona,1165.188914492914
+Louisiana,Arkansas,264.8519575702034
+Louisiana,California,1623.7889090062679
+Louisiana,Colorado,941.1884904734623
+Louisiana,Connecticut,1293.1791630684208
+Louisiana,Delaware,1080.3620118501035
+Louisiana,District of Columbia,1005.2095525665494
+Louisiana,Florida,597.1027568919824
+Louisiana,Georgia,514.4263439533479
+Louisiana,Hawaii,4030.07921126858
+Louisiana,Idaho,1532.2516019976356
+Louisiana,Illinois,638.3014829641045
+Louisiana,Indiana,688.1115911777279
+Louisiana,Iowa,763.4506860175567
+Louisiana,Kansas,627.114428303853
+Louisiana,Kentucky,587.2352793591817
+Louisiana,Louisiana,0.0
+Louisiana,Maine,1573.2800871909176
+Louisiana,Maryland,1020.5401751516381
+Louisiana,Massachusetts,1355.676107969068
+Louisiana,Michigan,983.4264195755833
+Louisiana,Minnesota,1056.5642598383215
+Louisiana,Mississippi,178.70677651402238
+Louisiana,Missouri,503.04150116287144
+Louisiana,Montana,1447.4568151229728
+Louisiana,Nebraska,842.0108730157215
+Louisiana,Nevada,1499.6410855734514
+Louisiana,New Hampshire,1414.182002791861
+Louisiana,New Jersey,1157.028473069936
+Louisiana,New Mexico,852.8439303970703
+Louisiana,New York,1221.111276127402
+Louisiana,North Carolina,791.6233695887738
+Louisiana,North Dakota,1216.1241783216087
+Louisiana,Ohio,818.634564721324
+Louisiana,Oklahoma,445.0202039160439
+Louisiana,Oregon,1789.380600774469
+Louisiana,Pennsylvania,1041.806563458296
+Louisiana,Rhode Island,1348.8350213948934
+Louisiana,South Carolina,676.8844897402217
+Louisiana,South Dakota,1025.3248480260766
+Louisiana,Tennessee,463.83381305900934
+Louisiana,Texas,434.8302457745867
+Louisiana,Utah,1246.067361812912
+Louisiana,Vermont,1382.8936866663448
+Louisiana,Virginia,872.2887103097504
+Louisiana,Washington,1878.8061818965969
+Louisiana,West Virginia,829.5990413997246
+Louisiana,Wisconsin,941.2126119788508
+Louisiana,Wyoming,1186.1827527343792
+Maine,Alabama,1278.6362479528248
+Maine,Alaska,3282.6661775511416
+Maine,Arizona,2351.7863303874014
+Maine,Arkansas,1417.7877353518122
+Maine,California,2630.762176664011
+Maine,Colorado,1897.617807941879
+Maine,Connecticut,312.34402094206865
+Maine,Delaware,544.821255165549
+Maine,District of Columbia,597.8698399291067
+Maine,Florida,1361.9249187096566
+Maine,Georgia,1160.460220551038
+Maine,Hawaii,5103.5593173356165
+Maine,Idaho,2199.4561245731898
+Maine,Illinois,1076.871126117771
+Maine,Indiana,944.6880915582118
+Maine,Iowa,1230.5549715601703
+Maine,Kansas,1564.901145035886
+Maine,Kentucky,990.9315129639626
+Maine,Louisiana,1573.2800871909176
+Maine,Maine,0.0
+Maine,Maryland,582.5075451032137
+Maine,Massachusetts,250.06420974063067
+Maine,Michigan,795.8274574392424
+Maine,Minnesota,1206.725650246734
+Maine,Mississippi,1395.2288463057416
+Maine,Missouri,1286.0148841560242
+Maine,Montana,1918.620952603446
+Maine,Nebraska,1549.517184589178
+Maine,Nevada,2425.8843092407665
+Maine,New Hampshire,164.12541385943797
+Maine,New Jersey,451.4542856412214
+Maine,New Mexico,2078.437477913438
+Maine,New York,353.92848234319763
+Maine,North Carolina,861.2981664328408
+Maine,North Dakota,1488.5387812370852
+Maine,Ohio,771.3737174076242
+Maine,Oklahoma,1623.2182636886175
+Maine,Oregon,2487.740428831403
+Maine,Pennsylvania,531.8156577276892
+Maine,Rhode Island,280.17495098515764
+Maine,South Carolina,1003.0575240983623
+Maine,South Dakota,1512.3670177696008
+Maine,Tennessee,1109.7035590321088
+Maine,Texas,1876.711064693916
+Maine,Utah,2186.3569183438462
+Maine,Vermont,190.94016441792436
+Maine,Virginia,735.4067690969906
+Maine,Washington,2407.2592633249874
+Maine,West Virginia,746.2990189258268
+Maine,Wisconsin,1015.2084457272141
+Maine,Wyoming,1892.3522536009818
+Maryland,Alabama,709.2481892038426
+Maryland,Alaska,3416.5507662983323
+Maryland,Arizona,1952.6461336112088
+Maryland,Arkansas,910.8599635529292
+Maryland,California,2307.628845346802
+Maryland,Colorado,1540.8076453927283
+Maryland,Connecticut,278.1509936268759
+Maryland,Delaware,69.34093155130385
+Maryland,District of Columbia,15.655615158298714
+Maryland,Florida,788.3031481117476
+Maryland,Georgia,578.363347329885
+Maryland,Hawaii,4809.446011848094
+Maryland,Idaho,1971.8728672909238
+Maryland,Illinois,665.5126638071398
+Maryland,Indiana,510.4720123301228
+Maryland,Iowa,901.8029339719839
+Maryland,Kansas,1163.6873729181234
+Maryland,Kentucky,474.18313332644664
+Maryland,Louisiana,1020.5401751516381
+Maryland,Maine,582.5075451032137
+Maryland,Maryland,0.0
+Maryland,Massachusetts,342.59988065842055
+Maryland,Michigan,575.7329735029788
+Maryland,Minnesota,1018.8821779662042
+Maryland,Mississippi,842.3144346291691
+Maryland,Missouri,847.116120063156
+Maryland,Montana,1736.948837599431
+Maryland,Nebraska,1223.6434217881738
+Maryland,Nevada,2121.0877240011355
+Maryland,New Hampshire,418.44325468524715
+Maryland,New Jersey,137.5032469694831
+Maryland,New Mexico,1651.2050208281692
+Maryland,New York,277.02636056839486
+Maryland,North Carolina,280.49846209009013
+Maryland,North Dakota,1320.6204493976134
+Maryland,Ohio,331.0454566511964
+Maryland,Oklahoma,1162.310993561861
+Maryland,Oregon,2268.7711934606345
+Maryland,Pennsylvania,136.7031898311117
+Maryland,Rhode Island,330.10871387933446
+Maryland,South Carolina,421.51075028480807
+Maryland,South Dakota,1261.9567126197608
+Maryland,Tennessee,569.5478485645538
+Maryland,Texas,1372.662722554848
+Maryland,Utah,1860.9803386605242
+Maryland,Vermont,406.60991462006285
+Maryland,Virginia,154.14214081545555
+Maryland,Washington,2246.0234946365854
+Maryland,West Virginia,208.64369325739705
+Maryland,Wisconsin,780.9662201479858
+Maryland,Wyoming,1620.992142857424
+Massachusetts,Alabama,1049.9756176464837
+Massachusetts,Alaska,3382.6351589730943
+Massachusetts,Arizona,2214.3354575497224
+Massachusetts,Arkansas,1223.1686280558083
+Massachusetts,California,2529.911177863115
+Massachusetts,Colorado,1776.2235839931418
+Massachusetts,Connecticut,64.64876288368384
+Massachusetts,Delaware,297.7334550422825
+Massachusetts,District of Columbia,358.24467369293694
+Massachusetts,Florida,1112.9318764310133
+Massachusetts,Georgia,919.7634124540098
+Massachusetts,Hawaii,5024.233307089131
+Massachusetts,Idaho,2138.22263966258
+Massachusetts,Illinois,918.113536741961
+Massachusetts,Indiana,772.1746256363492
+Massachusetts,Iowa,1110.6300743015754
+Massachusetts,Kansas,1420.009626624187
+Massachusetts,Kentucky,786.4934181793976
+Massachusetts,Louisiana,1355.676107969068
+Massachusetts,Maine,250.06420974063067
+Massachusetts,Maryland,342.59988065842055
+Massachusetts,Massachusetts,0.0
+Massachusetts,Michigan,699.8649535859623
+Massachusetts,Minnesota,1145.8421110246481
+Massachusetts,Mississippi,1176.9723344305148
+Massachusetts,Missouri,1120.4463859833365
+Massachusetts,Montana,1874.4614604904325
+Massachusetts,Nebraska,1437.4291414370762
+Massachusetts,Nevada,2332.1016331440496
+Massachusetts,New Hampshire,98.75771201501512
+Massachusetts,New Jersey,206.51184505919068
+Massachusetts,New Mexico,1926.2470022364043
+Massachusetts,New York,195.5456418094519
+Massachusetts,North Carolina,616.4983428104093
+Massachusetts,North Dakota,1443.4699163578903
+Massachusetts,Ohio,587.4592335128837
+Massachusetts,Oklahoma,1451.966557387277
+Massachusetts,Oregon,2432.6312899245295
+Massachusetts,Pennsylvania,324.7353927921049
+Massachusetts,Rhode Island,42.30662407594416
+Massachusetts,South Carolina,758.343587492428
+Massachusetts,South Dakota,1432.2618014613784
+Massachusetts,Tennessee,896.3879535458265
+Massachusetts,Texas,1686.267484885788
+Massachusetts,Utah,2081.582096295773
+Massachusetts,Vermont,132.18696853722454
+Massachusetts,Virginia,496.72894400859235
+Massachusetts,Washington,2376.8400382133427
+Massachusetts,West Virginia,527.0717931806047
+Massachusetts,Wisconsin,927.211648542628
+Massachusetts,Wyoming,1808.7506023591
+Michigan,Alabama,801.5330362200334
+Michigan,Alaska,2860.1456894661437
+Michigan,Arizona,1559.6041693669438
+Michigan,Arkansas,751.6848915505938
+Michigan,California,1839.3213945932002
+Michigan,Colorado,1102.024217949025
+Michigan,Connecticut,668.9289243170263
+Michigan,Delaware,631.253097625279
+Michigan,District of Columbia,573.6918424020437
+Michigan,Florida,1095.9465399806281
+Michigan,Georgia,814.326386294909
+Michigan,Hawaii,4326.664352714762
+Michigan,Idaho,1439.107581260649
+Michigan,Illinois,354.9409337323866
+Michigan,Indiana,310.5473502731347
+Michigan,Iowa,437.12055436349544
+Michigan,Kansas,784.1663666717022
+Michigan,Kentucky,470.09670507744113
+Michigan,Louisiana,983.4264195755833
+Michigan,Maine,795.8274574392424
+Michigan,Maryland,575.7329735029788
+Michigan,Massachusetts,699.8649535859623
+Michigan,Michigan,0.0
+Michigan,Minnesota,453.23532921428307
+Michigan,Mississippi,833.070848594628
+Michigan,Missouri,552.0076128079097
+Michigan,Montana,1182.1389607505182
+Michigan,Nebraska,753.7357388701081
+Michigan,Nevada,1637.6319093244852
+Michigan,New Hampshire,689.7655559187126
+Michigan,New Jersey,620.003771719186
+Michigan,New Mexico,1297.6960091971332
+Michigan,New York,504.36475566610966
+Michigan,North Carolina,685.1780808920857
+Michigan,North Dakota,755.592134375228
+Michigan,Ohio,310.61785599580884
+Michigan,Oklahoma,879.482510823511
+Michigan,Oregon,1734.2759206933724
+Michigan,Pennsylvania,455.65269100550773
+Michigan,Rhode Island,724.6261232921102
+Michigan,South Carolina,758.9307764854176
+Michigan,South Dakota,732.5067801887585
+Michigan,Tennessee,587.7822022062884
+Michigan,Texas,1165.6263963590259
+Michigan,Utah,1392.8957555708166
+Michigan,Vermont,632.586257242779
+Michigan,Virginia,582.2631092825502
+Michigan,Washington,1689.0079624152372
+Michigan,West Virginia,465.3738659384548
+Michigan,Wisconsin,227.35932603340677
+Michigan,Wyoming,1110.048951863489
+Minnesota,Alabama,1012.3078390288449
+Minnesota,Alaska,2486.024623978533
+Minnesota,Arizona,1230.8291480569565
+Minnesota,Arkansas,791.7307153420936
+Minnesota,California,1436.052543875623
+Minnesota,Colorado,760.9023125248785
+Minnesota,Connecticut,1119.2798491054516
+Minnesota,Delaware,1078.512041235664
+Minnesota,District of Columbia,1014.8289054048794
+Minnesota,Florida,1377.17904446819
+Minnesota,Georgia,1103.42258406011
+Minnesota,Hawaii,3896.952693235179
+Minnesota,Idaho,995.5941416992357
+Minnesota,Illinois,501.8813507633555
+Minnesota,Indiana,598.6834727179605
+Minnesota,Iowa,293.1384453380917
+Minnesota,Kansas,576.2967121827942
+Minnesota,Kentucky,760.3778287494379
+Minnesota,Louisiana,1056.5642598383215
+Minnesota,Maine,1206.725650246734
+Minnesota,Maryland,1018.8821779662042
+Minnesota,Massachusetts,1145.8421110246481
+Minnesota,Michigan,453.23532921428307
+Minnesota,Minnesota,0.0
+Minnesota,Mississippi,966.2484615256076
+Minnesota,Missouri,555.0147408974966
+Minnesota,Montana,729.652128893785
+Minnesota,Nebraska,426.7563495508852
+Minnesota,Nevada,1226.6786433014543
+Minnesota,New Hampshire,1124.08291227987
+Minnesota,New Jersey,1072.7270074471776
+Minnesota,New Mexico,1027.0151533512208
+Minnesota,New York,951.6969090008105
+Minnesota,North Carolina,1072.4443443490438
+Minnesota,North Dakota,302.7521628143749
+Minnesota,Ohio,711.7932372705482
+Minnesota,Oklahoma,756.2516731651081
+Minnesota,Oregon,1288.005284337563
+Minnesota,Pennsylvania,906.2004353230649
+Minnesota,Rhode Island,1173.2831609742125
+Minnesota,South Carolina,1106.9504681132448
+Minnesota,South Dakota,314.81202159730276
+Minnesota,Tennessee,829.5796798913416
+Minnesota,Texas,1056.0270346776474
+Minnesota,Utah,1002.4570109185984
+Minnesota,Vermont,1064.5312376715285
+Minnesota,Virginia,997.1091617404782
+Minnesota,Washington,1235.8107006512357
+Minnesota,West Virginia,873.7653746787674
+Minnesota,Wisconsin,238.69085500116762
+Minnesota,Wyoming,690.2897761857627
+Mississippi,Alabama,165.33445966983797
+Mississippi,Alaska,3394.038860625284
+Mississippi,Arizona,1271.686938108764
+Mississippi,Arkansas,218.13584380497258
+Mississippi,California,1711.5508665538819
+Mississippi,Colorado,988.2947571854322
+Mississippi,Connecticut,1114.5063493741973
+Mississippi,Delaware,902.732350568627
+Mississippi,District of Columbia,827.0322283800755
+Mississippi,Florida,514.2631074374013
+Mississippi,Georgia,362.76185164744703
+Mississippi,Hawaii,4154.127275858207
+Mississippi,Idaho,1561.5097557651634
+Mississippi,Illinois,504.3937614124155
+Mississippi,Indiana,528.3510373125248
+Mississippi,Iowa,677.385001009244
+Mississippi,Kansas,630.4374766847383
+Mississippi,Kentucky,412.8433188315944
+Mississippi,Louisiana,178.70677651402238
+Mississippi,Maine,1395.2288463057416
+Mississippi,Maryland,842.3144346291691
+Mississippi,Massachusetts,1176.9723344305148
+Mississippi,Michigan,833.070848594628
+Mississippi,Minnesota,966.2484615256076
+Mississippi,Mississippi,0.0
+Mississippi,Missouri,418.0831672070863
+Mississippi,Montana,1441.6745619597764
+Mississippi,Nebraska,824.0346030746142
+Mississippi,Nevada,1570.1742451216483
+Mississippi,New Hampshire,1235.7634792512624
+Mississippi,New Jersey,978.597939300248
+Mississippi,New Mexico,954.6187720051216
+Mississippi,New York,1043.5927435280282
+Mississippi,North Carolina,619.969706612646
+Mississippi,North Dakota,1162.7215575954806
+Mississippi,Ohio,645.5847835198697
+Mississippi,Oklahoma,489.4305528270419
+Mississippi,Oregon,1833.1146552538291
+Mississippi,Pennsylvania,863.5639845155328
+Mississippi,Rhode Island,1170.2677417069199
+Mississippi,South Carolina,513.7742165036022
+Mississippi,South Dakota,987.5368842406747
+Mississippi,Tennessee,286.84751154944735
+Mississippi,Texas,573.141474166204
+Mississippi,Utah,1308.832730064455
+Mississippi,Vermont,1205.0313002449316
+Mississippi,Virginia,694.9828710886194
+Mississippi,Washington,1900.3825545930401
+Mississippi,West Virginia,650.9659268036638
+Mississippi,Wisconsin,820.1984722671191
+Mississippi,Wyoming,1202.7362818292142
+Missouri,Alabama,498.1584422486079
+Missouri,Alaska,2982.588290434651
+Missouri,Arizona,1105.5670968474853
+Missouri,Arkansas,238.77549993406038
+Missouri,California,1475.7255524379968
+Missouri,Colorado,708.5453215404042
+Missouri,Connecticut,1068.5265253329433
+Missouri,Delaware,916.4306421067912
+Missouri,District of Columbia,835.415342176841
+Missouri,Florida,883.847718861653
+Missouri,Georgia,642.5345155171522
+Missouri,Hawaii,3972.3392929792685
+Missouri,Idaho,1219.4253382429583
+Missouri,Illinois,210.1200965287713
+Missouri,Indiana,348.3192260506478
+Missouri,Iowa,262.3653626721819
+Missouri,Kansas,321.43290008005135
+Missouri,Kentucky,394.81738944938763
+Missouri,Louisiana,503.04150116287144
+Missouri,Maine,1286.0148841560242
+Missouri,Maryland,847.116120063156
+Missouri,Massachusetts,1120.4463859833365
+Missouri,Michigan,552.0076128079097
+Missouri,Minnesota,555.0147408974966
+Missouri,Mississippi,418.0831672070863
+Missouri,Missouri,0.0
+Missouri,Montana,1056.872531765115
+Missouri,Nebraska,446.951199494301
+Missouri,Nevada,1301.8894400786105
+Missouri,New Hampshire,1147.6069617416456
+Missouri,New Jersey,960.3344277269866
+Missouri,New Mexico,807.5632806665986
+Missouri,New York,942.576849618315
+Missouri,North Carolina,747.9292832910377
+Missouri,North Dakota,746.853161837401
+Missouri,Ohio,534.3648644932218
+Missouri,Oklahoma,337.660434875884
+Missouri,Oregon,1507.4329673023647
+Missouri,Pennsylvania,800.1910847113132
+Missouri,Rhode Island,1129.235540937349
+Missouri,South Carolina,714.6897946829537
+Missouri,South Dakota,582.0751830934225
+Missouri,Tennessee,378.66714792902155
+Missouri,Texas,613.8335348844546
+Missouri,Utah,1036.7101927929957
+Missouri,Vermont,1100.7315944567858
+Missouri,Virginia,744.6402056816843
+Missouri,Washington,1540.7906685735456
+Missouri,West Virginia,641.3857288377445
+Missouri,Wisconsin,450.9821711970468
+Missouri,Wyoming,853.5327075190608
+Montana,Alabama,1551.080494877842
+Montana,Alaska,1985.7359145006203
+Montana,Arizona,888.0527606841646
+Montana,Arkansas,1224.648581041883
+Montana,California,846.7190729343948
+Montana,Colorado,593.1001284191967
+Montana,Connecticut,1848.8834115294092
+Montana,Delaware,1799.5322277564787
+Montana,District of Columbia,1731.3685658928543
+Montana,Florida,1937.805589473495
+Montana,Georgia,1697.852029501666
+Montana,Hawaii,3195.934655841659
+Montana,Idaho,304.66759066289325
+Montana,Illinois,1130.145088626623
+Montana,Indiana,1267.6236863061258
+Montana,Iowa,865.4778608681065
+Montana,Kansas,820.8831327346189
+Montana,Kentucky,1401.0702429606413
+Montana,Louisiana,1447.4568151229728
+Montana,Maine,1918.620952603446
+Montana,Maryland,1736.948837599431
+Montana,Massachusetts,1874.4614604904325
+Montana,Michigan,1182.1389607505182
+Montana,Minnesota,729.652128893785
+Montana,Mississippi,1441.6745619597764
+Montana,Missouri,1056.872531765115
+Montana,Montana,0.0
+Montana,Nebraska,618.0782338317592
+Montana,Nevada,639.1134936000057
+Montana,New Hampshire,1848.4303384033094
+Montana,New Jersey,1799.7447140726158
+Montana,New Mexico,891.6848153344193
+Montana,New York,1680.9277612671015
+Montana,North Carolina,1747.4845281448224
+Montana,North Dakota,431.8271934254088
+Montana,Ohio,1415.4763405079675
+Montana,Oklahoma,1009.7568126867977
+Montana,Oregon,572.0635064156111
+Montana,Pennsylvania,1631.219179777479
+Montana,Rhode Island,1902.581555702212
+Montana,South Carolina,1749.5772058442383
+Montana,South Dakota,488.8175260986298
+Montana,Tennessee,1426.0318183409688
+Montana,Texas,1205.8000464675779
+Montana,Utah,544.5617033070132
+Montana,Vermont,1788.3326603428113
+Montana,Virginia,1695.1737880027756
+Montana,Washington,509.0748174968363
+Montana,West Virginia,1572.5130685079746
+Montana,Wisconsin,960.1132116827364
+Montana,Wyoming,298.10241554452585
+Nebraska,Alabama,934.5891402478613
+Nebraska,Alaska,2581.687314942871
+Nebraska,Arizona,818.0405810069661
+Nebraska,Arkansas,607.8451221218771
+Nebraska,California,1092.8386662238713
+Nebraska,Colorado,350.84853852266855
+Nebraska,Connecticut,1396.8096427608068
+Nebraska,Delaware,1291.5254862367499
+Nebraska,District of Columbia,1214.734084729455
+Nebraska,Florida,1321.0505305431236
+Nebraska,Georgia,1089.0258343426638
+Nebraska,Hawaii,3592.0321377669375
+Nebraska,Idaho,774.9355494000204
+Nebraska,Illinois,564.9652509484721
+Nebraska,Indiana,717.7350329600115
+Nebraska,Iowa,327.2958332752905
+Nebraska,Kansas,223.02085911315572
+Nebraska,Kentucky,820.7328010512481
+Nebraska,Louisiana,842.0108730157215
+Nebraska,Maine,1549.517184589178
+Nebraska,Maryland,1223.6434217881738
+Nebraska,Massachusetts,1437.4291414370762
+Nebraska,Michigan,753.7357388701081
+Nebraska,Minnesota,426.7563495508852
+Nebraska,Mississippi,824.0346030746142
+Nebraska,Missouri,446.951199494301
+Nebraska,Montana,618.0782338317592
+Nebraska,Nebraska,0.0
+Nebraska,Nevada,899.1588698668386
+Nebraska,New Hampshire,1439.133271952877
+Nebraska,New Jersey,1314.6973333072715
+Nebraska,New Mexico,600.2977960036382
+Nebraska,New York,1244.0305617148076
+Nebraska,North Carolina,1176.431095213873
+Nebraska,North Dakota,409.5715309565003
+Nebraska,Ohio,892.7233407242552
+Nebraska,Oklahoma,428.789211714437
+Nebraska,Oregon,1066.4569654567022
+Nebraska,Pennsylvania,1144.091953227529
+Nebraska,Rhode Island,1456.1014786844594
+Nebraska,South Carolina,1157.5256544529407
+Nebraska,South Dakota,201.8203555460065
+Nebraska,Tennessee,824.2843248181706
+Nebraska,Texas,694.2902376186602
+Nebraska,Utah,644.3035454890322
+Nebraska,Vermont,1383.6024919271465
+Nebraska,Virginia,1149.4181819296214
+Nebraska,Washington,1093.9682998174608
+Nebraska,West Virginia,1033.1848075813266
+Nebraska,Wisconsin,539.3076405213717
+Nebraska,Wyoming,409.9859821724917
+Nevada,Alabama,1719.8886653920197
+Nevada,Alaska,2238.4831721567703
+Nevada,Arizona,444.2022127297277
+Nevada,Arkansas,1366.0176508367556
+Nevada,California,213.7854653576086
+Nevada,Colorado,595.2827500448884
+Nevada,Connecticut,2293.7249260756976
+Nevada,Delaware,2189.392796084717
+Nevada,District of Columbia,2111.697542028036
+Nevada,Florida,2081.5179410842115
+Nevada,Georgia,1904.4804263843844
+Nevada,Hawaii,2693.3972144434697
+Nevada,Idaho,361.87685767310035
+Nevada,Illinois,1457.4135034999938
+Nevada,Indiana,1612.112858472664
+Nevada,Iowa,1225.7400126229268
+Nevada,Kansas,983.6268593775684
+Nevada,Kentucky,1695.7580351088427
+Nevada,Louisiana,1499.6410855734514
+Nevada,Maine,2425.8843092407665
+Nevada,Maryland,2121.0877240011355
+Nevada,Massachusetts,2332.1016331440496
+Nevada,Michigan,1637.6319093244852
+Nevada,Minnesota,1226.6786433014543
+Nevada,Mississippi,1570.1742451216483
+Nevada,Missouri,1301.8894400786105
+Nevada,Montana,639.1134936000057
+Nevada,Nebraska,899.1588698668386
+Nevada,Nevada,0.0
+Nevada,New Hampshire,2327.3927914988653
+Nevada,New Jersey,2213.854783919048
+Nevada,New Mexico,673.7312354085492
+Nevada,New York,2137.364873143425
+Nevada,North Carolina,2049.807154831651
+Nevada,North Dakota,985.1471900379729
+Nevada,Ohio,1790.7151872371014
+Nevada,Oklahoma,1080.9376999422334
+Nevada,Oregon,377.16089249683256
+Nevada,Pennsylvania,2043.192767482042
+Nevada,Rhode Island,2352.4706264786005
+Nevada,South Carolina,2007.462431948302
+Nevada,South Dakota,914.6651384512955
+Nevada,Tennessee,1670.9056673945636
+Nevada,Texas,1113.7545504973014
+Nevada,Utah,265.80628336291227
+Nevada,Vermont,2270.0670575997315
+Nevada,Virginia,2038.6702310664534
+Nevada,Washington,588.0775484305564
+Nevada,West Virginia,1926.2872613496606
+Nevada,Wisconsin,1412.6347698739955
+Nevada,Wyoming,536.4711478530933
+New Hampshire,Alabama,1116.230172874942
+New Hampshire,Alaska,3309.2876050304394
+New Hampshire,Arizona,2229.362037278989
+New Hampshire,Arkansas,1266.9596676757237
+New Hampshire,California,2528.5289739217196
+New Hampshire,Colorado,1783.0229282956511
+New Hampshire,Connecticut,153.625410456243
+New Hampshire,Delaware,382.5754308527318
+New Hampshire,District of Columbia,433.7810948587011
+New Hampshire,Florida,1200.0783956912665
+New Hampshire,Georgia,996.3360012425203
+New Hampshire,Hawaii,5015.356582891513
+New Hampshire,Idaho,2119.5409119825244
+New Hampshire,Illinois,940.8418588319278
+New Hampshire,Indiana,801.6962079069372
+New Hampshire,Iowa,1114.7932252961587
+New Hampshire,Kansas,1437.3286635745299
+New Hampshire,Kentucky,835.356969237181
+New Hampshire,Louisiana,1414.182002791861
+New Hampshire,Maine,164.12541385943797
+New Hampshire,Maryland,418.44325468524715
+New Hampshire,Massachusetts,98.75771201501512
+New Hampshire,Michigan,689.7655559187126
+New Hampshire,Minnesota,1124.08291227987
+New Hampshire,Mississippi,1235.7634792512624
+New Hampshire,Missouri,1147.6069617416456
+New Hampshire,Montana,1848.4303384033094
+New Hampshire,Nebraska,1439.133271952877
+New Hampshire,Nevada,2327.3927914988653
+New Hampshire,New Hampshire,0.0
+New Hampshire,New Jersey,288.7316890742838
+New Hampshire,New Mexico,1948.126328572683
+New Hampshire,New York,205.09305605859845
+New Hampshire,North Carolina,697.6264983016595
+New Hampshire,North Dakota,1416.6042008807976
+New Hampshire,Ohio,622.4507407438701
+New Hampshire,Oklahoma,1482.9782119488307
+New Hampshire,Oregon,2411.9135780489014
+New Hampshire,Pennsylvania,372.6755362050678
+New Hampshire,Rhode Island,138.3545018299258
+New Hampshire,South Carolina,839.2909764286127
+New Hampshire,South Dakota,1419.7904860085462
+New Hampshire,Tennessee,951.4094683410478
+New Hampshire,Texas,1728.261531732566
+New Hampshire,Utah,2081.3470443324736
+New Hampshire,Vermont,60.439464280825455
+New Hampshire,Virginia,571.2862707951188
+New Hampshire,Washington,2346.3544531253033
+New Hampshire,West Virginia,585.3369696389703
+New Hampshire,Wisconsin,915.6732702087097
+New Hampshire,Wyoming,1798.7785312007832
+New Jersey,Alabama,846.737193665687
+New Jersey,Alaska,3415.1656614439744
+New Jersey,Arizona,2064.4235338334643
+New Jersey,Arkansas,1039.6731677520258
+New Jersey,California,2405.041785283394
+New Jersey,Colorado,1641.6752026928157
+New Jersey,Connecticut,141.86355697088604
+New Jersey,Delaware,94.01667872095942
+New Jersey,District of Columbia,153.12112383228603
+New Jersey,Florida,911.3823558223794
+New Jersey,Georgia,713.2589940218394
+New Jersey,Hawaii,4906.297104653767
+New Jersey,Idaho,2046.8727889082252
+New Jersey,Illinois,768.5482506986588
+New Jersey,Indiana,615.4973250023669
+New Jersey,Iowa,988.6040228244398
+New Jersey,Kansas,1271.5275276102768
+New Jersey,Kentucky,601.3613738044243
+New Jersey,Louisiana,1157.028473069936
+New Jersey,Maine,451.4542856412214
+New Jersey,Maryland,137.5032469694831
+New Jersey,Massachusetts,206.51184505919068
+New Jersey,Michigan,620.003771719186
+New Jersey,Minnesota,1072.7270074471776
+New Jersey,Mississippi,978.597939300248
+New Jersey,Missouri,960.3344277269866
+New Jersey,Montana,1799.7447140726158
+New Jersey,Nebraska,1314.6973333072715
+New Jersey,Nevada,2213.854783919048
+New Jersey,New Hampshire,288.7316890742838
+New Jersey,New Jersey,0.0
+New Jersey,New Mexico,1767.5149471091422
+New Jersey,New York,195.75409608202293
+New Jersey,North Carolina,410.5062352185404
+New Jersey,North Dakota,1375.37509596318
+New Jersey,Ohio,429.30305461593196
+New Jersey,Oklahoma,1283.1625414817872
+New Jersey,Oregon,2343.5296221949066
+New Jersey,Pennsylvania,171.29713948933127
+New Jersey,Rhode Island,192.61520979751484
+New Jersey,South Carolina,552.3883103445593
+New Jersey,South Dakota,1335.610125156265
+New Jersey,Tennessee,702.9465520088872
+New Jersey,Texas,1502.6044356174825
+New Jersey,Utah,1956.9048254130778
+New Jersey,Vermont,286.80637019901104
+New Jersey,Virginia,291.0593469038539
+New Jersey,Washington,2307.7576242393798
+New Jersey,West Virginia,335.77281959470173
+New Jersey,Wisconsin,839.6999329784782
+New Jersey,Wyoming,1703.3399686648827
+New Mexico,Alabama,1116.1904639092159
+New Mexico,Alaska,2816.712563249706
+New Mexico,Arizona,317.2763526619121
+New Mexico,Arkansas,778.8159007182804
+New Mexico,California,773.5502320444357
+New Mexico,Colorado,318.05772783999936
+New Mexico,Connecticut,1875.499907357835
+New Mexico,Delaware,1720.2581217826473
+New Mexico,District of Columbia,1638.8287279993694
+New Mexico,Florida,1448.3261743802877
+New Mexico,Georgia,1311.4920470305576
+New Mexico,Hawaii,3204.413447952754
+New Mexico,Idaho,822.1741466465945
+New Mexico,Illinois,1008.449619118063
+New Mexico,Indiana,1155.2466990778814
+New Mexico,Iowa,864.8657624513721
+New Mexico,Kansas,514.4052818148366
+New Mexico,Kentucky,1183.5435753015927
+New Mexico,Louisiana,852.8439303970703
+New Mexico,Maine,2078.437477913438
+New Mexico,Maryland,1651.2050208281692
+New Mexico,Massachusetts,1926.2470022364043
+New Mexico,Michigan,1297.6960091971332
+New Mexico,Minnesota,1027.0151533512208
+New Mexico,Mississippi,954.6187720051216
+New Mexico,Missouri,807.5632806665986
+New Mexico,Montana,891.6848153344193
+New Mexico,Nebraska,600.2977960036382
+New Mexico,Nevada,673.7312354085492
+New Mexico,New Hampshire,1948.126328572683
+New Mexico,New Jersey,1767.5149471091422
+New Mexico,New Mexico,0.0
+New Mexico,New York,1744.0669568198202
+New Mexico,North Carolina,1513.7102497965384
+New Mexico,North Dakota,946.6439506487417
+New Mexico,Ohio,1341.7456602919417
+New Mexico,Oklahoma,495.4455811698023
+New Mexico,Oregon,1013.9833913056132
+New Mexico,Pennsylvania,1607.5886861753002
+New Mexico,Rhode Island,1936.2330290843042
+New Mexico,South Carolina,1441.4505462811157
+New Mexico,South Dakota,760.1643953250791
+New Mexico,Tennessee,1121.7140233909652
+New Mexico,Texas,442.66585646042154
+New Mexico,Utah,456.89948795746665
+New Mexico,Vermont,1898.31339262094
+New Mexico,Virginia,1537.412043253682
+New Mexico,Washington,1164.454254794675
+New Mexico,West Virginia,1443.3462907194942
+New Mexico,Wisconsin,1109.3485991874581
+New Mexico,Wyoming,597.4829939380476
+New York,Alabama,933.2471112520049
+New York,Alaska,3233.6852803712154
+New York,Arizona,2027.4632656753124
+New York,Arkansas,1064.6642919522283
+New York,California,2335.951562038262
+New York,Colorado,1584.8897898276773
+New York,Connecticut,170.38057209626803
+New York,Delaware,273.55358122502446
+New York,District of Columbia,289.68160459690824
+New York,Florida,1060.3502304582134
+New York,Georgia,831.8411010483685
+New York,Hawaii,4829.045320585428
+New York,Idaho,1943.0223833021528
+New York,Illinois,736.2018863785946
+New York,Indiana,596.6611002569911
+New York,Iowa,917.8340405382563
+New York,Kansas,1234.329491399401
+New York,Kentucky,637.1992328906863
+New York,Louisiana,1221.111276127402
+New York,Maine,353.92848234319763
+New York,Maryland,277.02636056839486
+New York,Massachusetts,195.5456418094519
+New York,Michigan,504.36475566610966
+New York,Minnesota,951.6969090008105
+New York,Mississippi,1043.5927435280282
+New York,Missouri,942.576849618315
+New York,Montana,1680.9277612671015
+New York,Nebraska,1244.0305617148076
+New York,Nevada,2137.364873143425
+New York,New Hampshire,205.09305605859845
+New York,New Jersey,195.75409608202293
+New York,New Mexico,1744.0669568198202
+New York,New York,0.0
+New York,North Carolina,550.5990752592155
+New York,North Dakota,1250.5563057398767
+New York,Ohio,418.7401127893706
+New York,Oklahoma,1277.8929716615703
+New York,Oregon,2237.674179475869
+New York,Pennsylvania,185.04971238512874
+New York,Rhode Island,221.6617492487232
+New York,South Carolina,687.6504828080996
+New York,South Dakota,1236.7195855489445
+New York,Tennessee,757.2793051102052
+New York,Texas,1524.8837350537385
+New York,Utah,1887.8410592889577
+New York,Vermont,163.04625178619466
+New York,Virginia,413.9476275604196
+New York,Washington,2184.600447067169
+New York,West Virginia,399.8093957274497
+New York,Wisconsin,731.6950220334387
+New York,Wyoming,1613.2869176498962
+North Carolina,Alabama,467.11314440417624
+North Carolina,Alaska,3539.958984356184
+North Carolina,Arizona,1826.4539335122581
+North Carolina,Arkansas,739.3594515997598
+North Carolina,California,2221.1858316983316
+North Carolina,Colorado,1455.8687096376989
+North Carolina,Connecticut,551.9843872506589
+North Carolina,Delaware,319.0941771086893
+North Carolina,District of Columbia,265.7388864152258
+North Carolina,Florida,509.76460075657417
+North Carolina,Georgia,307.1943293257326
+North Carolina,Hawaii,4710.4884380112
+North Carolina,Idaho,1949.0736386128556
+North Carolina,Illinois,619.0214263669591
+North Carolina,Indiana,481.5492946890984
+North Carolina,Iowa,882.573537598198
+North Carolina,Kansas,1067.4680920856624
+North Carolina,Kentucky,356.1433991750612
+North Carolina,Louisiana,791.6233695887738
+North Carolina,Maine,861.2981664328408
+North Carolina,Maryland,280.49846209009013
+North Carolina,Massachusetts,616.4983428104093
+North Carolina,Michigan,685.1780808920857
+North Carolina,Minnesota,1072.4443443490438
+North Carolina,Mississippi,619.969706612646
+North Carolina,Missouri,747.9292832910377
+North Carolina,Montana,1747.4845281448224
+North Carolina,Nebraska,1176.431095213873
+North Carolina,Nevada,2049.807154831651
+North Carolina,New Hampshire,697.6264983016595
+North Carolina,New Jersey,410.5062352185404
+North Carolina,New Mexico,1513.7102497965384
+North Carolina,New York,550.5990752592155
+North Carolina,North Carolina,0.0
+North Carolina,North Dakota,1359.8623841001079
+North Carolina,Ohio,375.51796600727835
+North Carolina,Oklahoma,1018.4309618290647
+North Carolina,Oregon,2242.525321791351
+North Carolina,Pennsylvania,377.1139489689785
+North Carolina,Rhode Island,597.7003165796812
+North Carolina,South Carolina,141.88279447106314
+North Carolina,South Dakota,1259.1480397595562
+North Carolina,Tennessee,392.0014242424788
+North Carolina,Texas,1182.8730898759761
+North Carolina,Utah,1784.5242454534705
+North Carolina,Vermont,687.0781839438349
+North Carolina,Virginia,138.76527817814815
+North Carolina,Washington,2251.0649508471943
+North Carolina,West Virginia,223.41643546634293
+North Carolina,Wisconsin,839.6092404889813
+North Carolina,Wyoming,1586.0130354369803
+North Dakota,Alabama,1239.5313417222858
+North Dakota,Alaska,2237.4216687785347
+North Dakota,Arizona,1079.4076833727806
+North Dakota,Arkansas,960.9279020397568
+North Dakota,California,1198.6993879185259
+North Dakota,Colorado,637.073767571907
+North Dakota,Connecticut,1419.2058924350156
+North Dakota,Delaware,1380.8532965286222
+North Dakota,District of Columbia,1316.213953949192
+North Dakota,Florida,1619.4909005256877
+North Dakota,Georgia,1357.2070699743388
+North Dakota,Hawaii,3619.464009677015
+North Dakota,Idaho,713.7727084557965
+North Dakota,Illinois,759.9847664738406
+North Dakota,Indiana,879.4141137778524
+North Dakota,Iowa,504.88516780672035
+North Dakota,Kansas,627.163511350086
+North Dakota,Kentucky,1030.3021948429478
+North Dakota,Louisiana,1216.1241783216087
+North Dakota,Maine,1488.5387812370852
+North Dakota,Maryland,1320.6204493976134
+North Dakota,Massachusetts,1443.4699163578903
+North Dakota,Michigan,755.592134375228
+North Dakota,Minnesota,302.7521628143749
+North Dakota,Mississippi,1162.7215575954806
+North Dakota,Missouri,746.853161837401
+North Dakota,Montana,431.8271934254088
+North Dakota,Nebraska,409.5715309565003
+North Dakota,Nevada,985.1471900379729
+North Dakota,New Hampshire,1416.6042008807976
+North Dakota,New Jersey,1375.37509596318
+North Dakota,New Mexico,946.6439506487417
+North Dakota,New York,1250.5563057398767
+North Dakota,North Carolina,1359.8623841001079
+North Dakota,North Dakota,0.0
+North Dakota,Ohio,1008.4440448779612
+North Dakota,Oklahoma,832.7792175216168
+North Dakota,Oregon,999.2327917501837
+North Dakota,Pennsylvania,1208.937361819509
+North Dakota,Rhode Island,1472.1937723553162
+North Dakota,South Carolina,1381.4664198920937
+North Dakota,South Dakota,207.91772302421043
+North Dakota,Tennessee,1080.0167995060574
+North Dakota,Texas,1103.6815414089544
+North Dakota,Utah,794.9876270146723
+North Dakota,Vermont,1356.5062804508348
+North Dakota,Virginia,1292.8002200169556
+North Dakota,Washington,934.3610055393087
+North Dakota,West Virginia,1169.2706563412348
+North Dakota,Wisconsin,539.6542347625186
+North Dakota,Wyoming,462.4569289630997
+Ohio,Alabama,564.0422141898638
+Ohio,Alaska,3165.365610663085
+Ohio,Arizona,1635.8334061116232
+Ohio,Arkansas,646.4300950417969
+Ohio,California,1978.8295412241116
+Ohio,Colorado,1213.558154211477
+Ohio,Connecticut,534.3079353596571
+Ohio,Delaware,398.81188433276606
+Ohio,District of Columbia,322.63872683319966
+Ohio,Florida,803.6655748856217
+Ohio,Georgia,528.3530004791281
+Ohio,Hawaii,4480.736358182932
+Ohio,Idaho,1643.1843672999307
+Ohio,Illinois,339.27229612801733
+Ohio,Indiana,186.78420823176
+Ohio,Iowa,571.0528110853636
+Ohio,Kansas,842.3456300872963
+Ohio,Kentucky,233.00019461957365
+Ohio,Louisiana,818.634564721324
+Ohio,Maine,771.3737174076242
+Ohio,Maryland,331.0454566511964
+Ohio,Massachusetts,587.4592335128837
+Ohio,Michigan,310.61785599580884
+Ohio,Minnesota,711.7932372705482
+Ohio,Mississippi,645.5847835198697
+Ohio,Missouri,534.3648644932218
+Ohio,Montana,1415.4763405079675
+Ohio,Nebraska,892.7233407242552
+Ohio,Nevada,1790.7151872371014
+Ohio,New Hampshire,622.4507407438701
+Ohio,New Jersey,429.30305461593196
+Ohio,New Mexico,1341.7456602919417
+Ohio,New York,418.7401127893706
+Ohio,North Carolina,375.51796600727835
+Ohio,North Dakota,1008.4440448779612
+Ohio,Ohio,0.0
+Ohio,Oklahoma,864.5133885081477
+Ohio,Oregon,1939.9338611557469
+Ohio,Pennsylvania,265.84630037782443
+Ohio,Rhode Island,594.9834968321095
+Ohio,South Carolina,451.5198566636619
+Ohio,South Dakota,935.1703958136657
+Ohio,Tennessee,361.7039271198939
+Ohio,Texas,1106.1487893792773
+Ohio,Utah,1531.4641338015094
+Ohio,Vermont,581.2400094795407
+Ohio,Virginia,285.3716425648927
+Ohio,Washington,1924.0594546378138
+Ohio,West Virginia,162.3494340745839
+Ohio,Wisconsin,474.1263221797816
+Ohio,Wyoming,1290.4535573929875
+Oklahoma,Alabama,640.487394748614
+Oklahoma,Alaska,2993.2459905763994
+Oklahoma,Arizona,808.5874804138907
+Oklahoma,Arkansas,289.66375792662865
+Oklahoma,California,1227.3009685762183
+Oklahoma,Colorado,501.84882844753196
+Oklahoma,Connecticut,1397.9623684994026
+Oklahoma,Delaware,1230.8949375433472
+Oklahoma,District of Columbia,1149.3979090075595
+Oklahoma,Florida,1002.478680589804
+Oklahoma,Georgia,829.9486498206137
+Oklahoma,Hawaii,3695.711700878532
+Oklahoma,Idaho,1087.975849371049
+Oklahoma,Illinois,547.7210586630059
+Oklahoma,Indiana,681.4130666125108
+Oklahoma,Iowa,496.55432314306086
+Oklahoma,Kansas,206.21026003936987
+Oklahoma,Kentucky,690.8045121580427
+Oklahoma,Louisiana,445.0202039160439
+Oklahoma,Maine,1623.2182636886175
+Oklahoma,Maryland,1162.310993561861
+Oklahoma,Massachusetts,1451.966557387277
+Oklahoma,Michigan,879.482510823511
+Oklahoma,Minnesota,756.2516731651081
+Oklahoma,Mississippi,489.4305528270419
+Oklahoma,Missouri,337.660434875884
+Oklahoma,Montana,1009.7568126867977
+Oklahoma,Nebraska,428.789211714437
+Oklahoma,Nevada,1080.9376999422334
+Oklahoma,New Hampshire,1482.9782119488307
+Oklahoma,New Jersey,1283.1625414817872
+Oklahoma,New Mexico,495.4455811698023
+Oklahoma,New York,1277.8929716615703
+Oklahoma,North Carolina,1018.4309618290647
+Oklahoma,North Dakota,832.7792175216168
+Oklahoma,Ohio,864.5133885081477
+Oklahoma,Oklahoma,0.0
+Oklahoma,Oregon,1350.1653701754467
+Oklahoma,Pennsylvania,1128.8946597513188
+Oklahoma,Rhode Island,1458.452943386072
+Oklahoma,South Carolina,950.1733755149423
+Oklahoma,South Dakota,627.8196399051856
+Oklahoma,Tennessee,626.4410949191821
+Oklahoma,Texas,302.6358132092224
+Oklahoma,Utah,819.4491690056436
+Oklahoma,Vermont,1437.15292095481
+Oklahoma,Virginia,1043.7509439226005
+Oklahoma,Washington,1433.8643894308875
+Oklahoma,West Virginia,953.7298349626363
+Oklahoma,Wisconsin,738.5082932355547
+Oklahoma,Wyoming,741.748102550963
+Oregon,Alabama,1969.553573073945
+Oregon,Alaska,1861.858429918222
+Oregon,Arizona,819.0940085022584
+Oregon,Arkansas,1618.5687604960137
+Oregon,California,469.21713079821757
+Oregon,Colorado,848.7685997671483
+Oregon,Connecticut,2403.194064052347
+Oregon,Delaware,2334.192236311603
+Oregon,District of Columbia,2261.5908987739763
+Oregon,Florida,2347.0027504502523
+Oregon,Georgia,2141.022576691049
+Oregon,Hawaii,2623.9176723674445
+Oregon,Idaho,296.9262511756588
+Oregon,Illinois,1626.9481892424924
+Oregon,Indiana,1775.7670594205279
+Oregon,Iowa,1370.8800760517734
+Oregon,Kansas,1210.7602131286023
+Oregon,Kentucky,1887.1196500544174
+Oregon,Louisiana,1789.380600774469
+Oregon,Maine,2487.740428831403
+Oregon,Maryland,2268.7711934606345
+Oregon,Massachusetts,2432.6312899245295
+Oregon,Michigan,1734.2759206933724
+Oregon,Minnesota,1288.005284337563
+Oregon,Mississippi,1833.1146552538291
+Oregon,Missouri,1507.4329673023647
+Oregon,Montana,572.0635064156111
+Oregon,Nebraska,1066.4569654567022
+Oregon,Nevada,377.16089249683256
+Oregon,New Hampshire,2411.9135780489014
+Oregon,New Jersey,2343.5296221949066
+Oregon,New Mexico,1013.9833913056132
+Oregon,New York,2237.674179475869
+Oregon,North Carolina,2242.525321791351
+Oregon,North Dakota,999.2327917501837
+Oregon,Ohio,1939.9338611557469
+Oregon,Oklahoma,1350.1653701754467
+Oregon,Oregon,0.0
+Oregon,Pennsylvania,2172.83965883655
+Oregon,Rhode Island,2458.690717682992
+Oregon,South Carolina,2221.835205337602
+Oregon,South Dakota,1008.0954779371393
+Oregon,Tennessee,1886.0078217914738
+Oregon,Texas,1438.8526050925225
+Oregon,Utah,559.7293726089044
+Oregon,Vermont,2352.203609094461
+Oregon,Virginia,2209.1134995726147
+Oregon,Washington,238.25577533169096
+Oregon,West Virginia,2089.6195136229576
+Oregon,Wisconsin,1507.9412088542094
+Oregon,Wyoming,656.5529586679228
+Pennsylvania,Alabama,749.0525521268635
+Pennsylvania,Alaska,3282.5493767914027
+Pennsylvania,Arizona,1900.7922324863957
+Pennsylvania,Arkansas,898.9017602642227
+Pennsylvania,California,2235.2160377521445
+Pennsylvania,Colorado,1473.2026285735094
+Pennsylvania,Connecticut,269.0687367528387
+Pennsylvania,Delaware,178.39298571223117
+Pennsylvania,District of Columbia,142.03801622859743
+Pennsylvania,Florida,884.3725342894891
+Pennsylvania,Georgia,648.1703101847597
+Pennsylvania,Hawaii,4736.007638410286
+Pennsylvania,Idaho,1876.1022209501398
+Pennsylvania,Illinois,602.9907952394421
+Pennsylvania,Indiana,452.4531600919186
+Pennsylvania,Iowa,817.6674927042028
+Pennsylvania,Kansas,1106.6594814939017
+Pennsylvania,Kentucky,463.7909147476135
+Pennsylvania,Louisiana,1041.806563458296
+Pennsylvania,Maine,531.8156577276892
+Pennsylvania,Maryland,136.7031898311117
+Pennsylvania,Massachusetts,324.7353927921049
+Pennsylvania,Michigan,455.65269100550773
+Pennsylvania,Minnesota,906.2004353230649
+Pennsylvania,Mississippi,863.5639845155328
+Pennsylvania,Missouri,800.1910847113132
+Pennsylvania,Montana,1631.219179777479
+Pennsylvania,Nebraska,1144.091953227529
+Pennsylvania,Nevada,2043.192767482042
+Pennsylvania,New Hampshire,372.6755362050678
+Pennsylvania,New Jersey,171.29713948933127
+Pennsylvania,New Mexico,1607.5886861753002
+Pennsylvania,New York,185.04971238512874
+Pennsylvania,North Carolina,377.1139489689785
+Pennsylvania,North Dakota,1208.937361819509
+Pennsylvania,Ohio,265.84630037782443
+Pennsylvania,Oklahoma,1128.8946597513188
+Pennsylvania,Oregon,2172.83965883655
+Pennsylvania,Pennsylvania,0.0
+Pennsylvania,Rhode Island,329.5844337454786
+Pennsylvania,South Carolina,509.30747387822805
+Pennsylvania,South Dakota,1164.7977019570233
+Pennsylvania,Tennessee,578.7497440202167
+Pennsylvania,Texas,1361.7901174013348
+Pennsylvania,Utah,1786.888669433136
+Pennsylvania,Vermont,342.38973720847724
+Pennsylvania,Virginia,238.35893829771652
+Pennsylvania,Washington,2139.7189711414308
+Pennsylvania,West Virginia,215.42665310684427
+Pennsylvania,Wisconsin,671.2227954594076
+Pennsylvania,Wyoming,1532.0455186640017
+Rhode Island,Alabama,1039.3519533569654
+Rhode Island,Alaska,3423.1016997237357
+Rhode Island,Arizona,2226.9995592695986
+Rhode Island,Arkansas,1224.0565903248985
+Rhode Island,California,2548.92654396948
+Rhode Island,Colorado,1792.5465832250818
+Rhode Island,Connecticut,60.73487207160629
+Rhode Island,Delaware,278.9348373738002
+Rhode Island,District of Columbia,345.7136210262497
+Rhode Island,Florida,1088.4558370137725
+Rhode Island,Georgia,903.0993806146189
+Rhode Island,Hawaii,5045.412089938247
+Rhode Island,Idaho,2163.7202276799244
+Rhode Island,Illinois,929.3808290670106
+Rhode Island,Indiana,781.0545671250682
+Rhode Island,Iowa,1128.9053023577105
+Rhode Island,Kansas,1432.4687155694992
+Rhode Island,Kentucky,786.1107859873695
+Rhode Island,Louisiana,1348.8350213948934
+Rhode Island,Maine,280.17495098515764
+Rhode Island,Maryland,330.10871387933446
+Rhode Island,Massachusetts,42.30662407594416
+Rhode Island,Michigan,724.6261232921102
+Rhode Island,Minnesota,1173.2831609742125
+Rhode Island,Mississippi,1170.2677417069199
+Rhode Island,Missouri,1129.235540937349
+Rhode Island,Montana,1902.581555702212
+Rhode Island,Nebraska,1456.1014786844594
+Rhode Island,Nevada,2352.4706264786005
+Rhode Island,New Hampshire,138.3545018299258
+Rhode Island,New Jersey,192.61520979751484
+Rhode Island,New Mexico,1936.2330290843042
+Rhode Island,New York,221.6617492487232
+Rhode Island,North Carolina,597.7003165796812
+Rhode Island,North Dakota,1472.1937723553162
+Rhode Island,Ohio,594.9834968321095
+Rhode Island,Oklahoma,1458.452943386072
+Rhode Island,Oregon,2458.690717682992
+Rhode Island,Pennsylvania,329.5844337454786
+Rhode Island,Rhode Island,0.0
+Rhode Island,South Carolina,739.1366036748163
+Rhode Island,South Dakota,1456.149057836698
+Rhode Island,Tennessee,892.3928931661936
+Rhode Island,Texas,1687.3772900376632
+Rhode Island,Utah,2100.404761634985
+Rhode Island,Vermont,174.4897727499322
+Rhode Island,Virginia,483.2773423173495
+Rhode Island,Washington,2406.1634019807084
+Rhode Island,West Virginia,523.3119386204227
+Rhode Island,Wisconsin,951.6671645287346
+Rhode Island,Wyoming,1831.3865201461726
+South Carolina,Alabama,351.9076099094892
+South Carolina,Alaska,3589.822809806707
+South Carolina,Arizona,1757.4020967647753
+South Carolina,Arkansas,662.7008191453411
+South Carolina,California,2169.958376450186
+South Carolina,Colorado,1412.2430723734449
+South Carolina,Connecticut,693.8482205181132
+South Carolina,Delaware,460.8165925438963
+South Carolina,District of Columbia,406.5097188785211
+South Carolina,Florida,375.60476206965
+South Carolina,Georgia,171.5976219651862
+South Carolina,Hawaii,4645.346139238244
+South Carolina,Idaho,1932.3224999569393
+South Carolina,Illinois,623.3531588483831
+South Carolina,Indiana,508.5128568317584
+South Carolina,Iowa,886.8559393782787
+South Carolina,Kansas,1024.7847542742152
+South Carolina,Kentucky,351.4203017133518
+South Carolina,Louisiana,676.8844897402217
+South Carolina,Maine,1003.0575240983623
+South Carolina,Maryland,421.51075028480807
+South Carolina,Massachusetts,758.343587492428
+South Carolina,Michigan,758.9307764854176
+South Carolina,Minnesota,1106.9504681132448
+South Carolina,Mississippi,513.7742165036022
+South Carolina,Missouri,714.6897946829537
+South Carolina,Montana,1749.5772058442383
+South Carolina,Nebraska,1157.5256544529407
+South Carolina,Nevada,2007.462431948302
+South Carolina,New Hampshire,839.2909764286127
+South Carolina,New Jersey,552.3883103445593
+South Carolina,New Mexico,1441.4505462811157
+South Carolina,New York,687.6504828080996
+South Carolina,North Carolina,141.88279447106314
+South Carolina,North Dakota,1381.4664198920937
+South Carolina,Ohio,451.5198566636619
+South Carolina,Oklahoma,950.1733755149423
+South Carolina,Oregon,2221.835205337602
+South Carolina,Pennsylvania,509.30747387822805
+South Carolina,Rhode Island,739.1366036748163
+South Carolina,South Carolina,0.0
+South Carolina,South Dakota,1261.4593706055368
+South Carolina,Tennessee,337.39380430777226
+South Carolina,Texas,1085.712995972101
+South Carolina,Utah,1741.6740650108823
+South Carolina,Vermont,827.685266466214
+South Carolina,Virginia,273.74699191792945
+South Carolina,Washington,2246.1928060548744
+South Carolina,West Virginia,326.07777758112707
+South Carolina,Wisconsin,883.9128365090286
+South Carolina,Wyoming,1566.7399866984924
+South Dakota,Alabama,1080.232672213162
+South Dakota,Alaska,2406.7357219409387
+South Dakota,Arizona,929.3472074004937
+South Dakota,Arkansas,777.8351225782434
+South Dakota,California,1122.5951329074635
+South Dakota,Colorado,465.6316469670749
+South Dakota,Connecticut,1399.373708923533
+South Dakota,Delaware,1326.7556265159628
+South Dakota,District of Columbia,1255.2486484629642
+South Dakota,Florida,1465.6342559238396
+South Dakota,Georgia,1215.9827015526462
+South Dakota,Hawaii,3595.614350238081
+South Dakota,Idaho,711.306741619699
+South Dakota,Illinois,641.3376179715488
+South Dakota,Indiana,780.4995071174887
+South Dakota,Iowa,376.73868998624755
+South Dakota,Kansas,421.65578370525435
+South Dakota,Kentucky,912.3502697977374
+South Dakota,Louisiana,1025.3248480260766
+South Dakota,Maine,1512.3670177696008
+South Dakota,Maryland,1261.9567126197608
+South Dakota,Massachusetts,1432.2618014613784
+South Dakota,Michigan,732.5067801887585
+South Dakota,Minnesota,314.81202159730276
+South Dakota,Mississippi,987.5368842406747
+South Dakota,Missouri,582.0751830934225
+South Dakota,Montana,488.8175260986298
+South Dakota,Nebraska,201.8203555460065
+South Dakota,Nevada,914.6651384512955
+South Dakota,New Hampshire,1419.7904860085462
+South Dakota,New Jersey,1335.610125156265
+South Dakota,New Mexico,760.1643953250791
+South Dakota,New York,1236.7195855489445
+South Dakota,North Carolina,1259.1480397595562
+South Dakota,North Dakota,207.91772302421043
+South Dakota,Ohio,935.1703958136657
+South Dakota,Oklahoma,627.8196399051856
+South Dakota,Oregon,1008.0954779371393
+South Dakota,Pennsylvania,1164.7977019570233
+South Dakota,Rhode Island,1456.149057836698
+South Dakota,South Carolina,1261.4593706055368
+South Dakota,South Dakota,0.0
+South Dakota,Tennessee,941.4790378386176
+South Dakota,Texas,895.7663714067842
+South Dakota,Utah,687.6957545216128
+South Dakota,Vermont,1361.3721600728102
+South Dakota,Virginia,1210.8130708271003
+South Dakota,Washington,992.7082838845027
+South Dakota,West Virginia,1089.0682825829747
+South Dakota,Wisconsin,505.1732733729063
+South Dakota,Wyoming,380.00952718729053
+Tennessee,Alabama,213.9546177850456
+Tennessee,Alaska,3311.3201344818026
+Tennessee,Arizona,1434.6541137542451
+Tennessee,Arkansas,350.2798400057474
+Tennessee,California,1836.1126880934921
+Tennessee,Colorado,1075.6234109865363
+Tennessee,Connecticut,835.0991692360808
+Tennessee,Delaware,633.8999409645194
+Tennessee,District of Columbia,554.8439240897264
+Tennessee,Florida,547.7551784809748
+Tennessee,Georgia,277.190959100928
+Tennessee,Hawaii,4319.976591053733
+Tennessee,Idaho,1597.9630212110874
+Tennessee,Illinois,327.69834460859585
+Tennessee,Indiana,278.3966363085147
+Tennessee,Iowa,575.7530013625292
+Tennessee,Kansas,687.6785248851824
+Tennessee,Kentucky,129.44343060560834
+Tennessee,Louisiana,463.83381305900934
+Tennessee,Maine,1109.7035590321088
+Tennessee,Maryland,569.5478485645538
+Tennessee,Massachusetts,896.3879535458265
+Tennessee,Michigan,587.7822022062884
+Tennessee,Minnesota,829.5796798913416
+Tennessee,Mississippi,286.84751154944735
+Tennessee,Missouri,378.66714792902155
+Tennessee,Montana,1426.0318183409688
+Tennessee,Nebraska,824.2843248181706
+Tennessee,Nevada,1670.9056673945636
+Tennessee,New Hampshire,951.4094683410478
+Tennessee,New Jersey,702.9465520088872
+Tennessee,New Mexico,1121.7140233909652
+Tennessee,New York,757.2793051102052
+Tennessee,North Carolina,392.0014242424788
+Tennessee,North Dakota,1080.0167995060574
+Tennessee,Ohio,361.7039271198939
+Tennessee,Oklahoma,626.4410949191821
+Tennessee,Oregon,1886.0078217914738
+Tennessee,Pennsylvania,578.7497440202167
+Tennessee,Rhode Island,892.3928931661936
+Tennessee,South Carolina,337.39380430777226
+Tennessee,South Dakota,941.4790378386176
+Tennessee,Tennessee,0.0
+Tennessee,Texas,805.8759228376196
+Tennessee,Utah,1405.1004145378085
+Tennessee,Vermont,919.1727354982157
+Tennessee,Virginia,431.6943748183745
+Tennessee,Washington,1916.6852146028011
+Tennessee,West Virginia,369.394440266098
+Tennessee,Wisconsin,634.602970789737
+Tennessee,Wyoming,1232.0951568826213
+Texas,Alabama,738.1095030592563
+Texas,Alaska,3184.662400330291
+Texas,Arizona,741.8793416735231
+Texas,Arkansas,463.3208716941494
+Texas,California,1214.042461956615
+Texas,Colorado,626.1061545851828
+Texas,Connecticut,1628.1234028258802
+Texas,Delaware,1438.4837734664243
+Texas,District of Columbia,1358.393682870103
+Texas,Florida,1029.2687593144515
+Texas,Georgia,934.886444433416
+Texas,Hawaii,3595.2598393664543
+Texas,Idaho,1214.8682051371604
+Texas,Illinois,819.3291853180168
+Texas,Indiana,933.9990709027757
+Texas,Iowa,798.8408567032126
+Texas,Kansas,486.77748695250614
+Texas,Kentucky,901.5668555748877
+Texas,Louisiana,434.8302457745867
+Texas,Maine,1876.711064693916
+Texas,Maryland,1372.662722554848
+Texas,Massachusetts,1686.267484885788
+Texas,Michigan,1165.6263963590259
+Texas,Minnesota,1056.0270346776474
+Texas,Mississippi,573.141474166204
+Texas,Missouri,613.8335348844546
+Texas,Montana,1205.8000464675779
+Texas,Nebraska,694.2902376186602
+Texas,Nevada,1113.7545504973014
+Texas,New Hampshire,1728.261531732566
+Texas,New Jersey,1502.6044356174825
+Texas,New Mexico,442.66585646042154
+Texas,New York,1524.8837350537385
+Texas,North Carolina,1182.8730898759761
+Texas,North Dakota,1103.6815414089544
+Texas,Ohio,1106.1487893792773
+Texas,Oklahoma,302.6358132092224
+Texas,Oregon,1438.8526050925225
+Texas,Pennsylvania,1361.7901174013348
+Texas,Rhode Island,1687.3772900376632
+Texas,South Carolina,1085.712995972101
+Texas,South Dakota,895.7663714067842
+Texas,Tennessee,805.8759228376196
+Texas,Texas,0.0
+Texas,Utah,879.8060008051893
+Texas,Vermont,1687.1796267550505
+Texas,Virginia,1237.5514847907193
+Texas,Washington,1565.1385382894844
+Texas,West Virginia,1166.8789669597518
+Texas,Wisconsin,1038.406904266347
+Texas,Wyoming,913.52494475482
+Utah,Alabama,1456.4785162747867
+Utah,Alaska,2370.852191889702
+Utah,Arizona,346.92496207911705
+Utah,Arkansas,1102.3519630679252
+Utah,California,448.579321531918
+Utah,Colorado,329.47702059550573
+Utah,Connecticut,2041.088387982179
+Utah,Delaware,1929.599786272133
+Utah,District of Columbia,1851.238672131925
+Utah,Florida,1821.6738800271196
+Utah,Georgia,1639.7518988858137
+Utah,Hawaii,2949.5143639219878
+Utah,Idaho,379.8316737990431
+Utah,Illinois,1196.0437220007286
+Utah,Indiana,1351.027029693555
+Utah,Iowa,971.5421499120318
+Utah,Kansas,717.9017829473231
+Utah,Kentucky,1430.9591566223235
+Utah,Louisiana,1246.067361812912
+Utah,Maine,2186.3569183438462
+Utah,Maryland,1860.9803386605242
+Utah,Massachusetts,2081.582096295773
+Utah,Michigan,1392.8957555708166
+Utah,Minnesota,1002.4570109185984
+Utah,Mississippi,1308.832730064455
+Utah,Missouri,1036.7101927929957
+Utah,Montana,544.5617033070132
+Utah,Nebraska,644.3035454890322
+Utah,Nevada,265.80628336291227
+Utah,New Hampshire,2081.3470443324736
+Utah,New Jersey,1956.9048254130778
+Utah,New Mexico,456.89948795746665
+Utah,New York,1887.8410592889577
+Utah,North Carolina,1784.5242454534705
+Utah,North Dakota,794.9876270146723
+Utah,Ohio,1531.4641338015094
+Utah,Oklahoma,819.4491690056436
+Utah,Oregon,559.7293726089044
+Utah,Pennsylvania,1786.888669433136
+Utah,Rhode Island,2100.404761634985
+Utah,South Carolina,1741.6740650108823
+Utah,South Dakota,687.6957545216128
+Utah,Tennessee,1405.1004145378085
+Utah,Texas,879.8060008051893
+Utah,Utah,0.0
+Utah,Vermont,2025.034555435638
+Utah,Virginia,1775.3987755496898
+Utah,Washington,710.6972932634504
+Utah,West Virginia,1664.2121983027412
+Utah,Wisconsin,1171.1652518026494
+Utah,Wyoming,333.08817698846514
+Vermont,Alabama,1090.974086248815
+Vermont,Alaska,3255.821974006857
+Vermont,Arizona,2177.0983667433406
+Vermont,Arkansas,1227.4722116852822
+Vermont,California,2471.8400328920075
+Vermont,Colorado,1728.5829591439676
+Vermont,Connecticut,168.9264884215059
+Vermont,Delaware,380.1225702670124
+Vermont,District of Columbia,421.35251756697056
+Vermont,Florida,1194.1294765445841
+Vermont,Georgia,979.8781981668734
+Vermont,Hawaii,4956.983800930641
+Vermont,Idaho,2060.081714831265
+Vermont,Illinois,892.7179526355442
+Vermont,Indiana,756.8683774233568
+Vermont,Iowa,1060.2281950536503
+Vermont,Kansas,1386.359134050582
+Vermont,Kentucky,800.00328943067
+Vermont,Louisiana,1382.8936866663448
+Vermont,Maine,190.94016441792436
+Vermont,Maryland,406.60991462006285
+Vermont,Massachusetts,132.18696853722454
+Vermont,Michigan,632.586257242779
+Vermont,Minnesota,1064.5312376715285
+Vermont,Mississippi,1205.0313002449316
+Vermont,Missouri,1100.7315944567858
+Vermont,Montana,1788.3326603428113
+Vermont,Nebraska,1383.6024919271465
+Vermont,Nevada,2270.0670575997315
+Vermont,New Hampshire,60.439464280825455
+Vermont,New Jersey,286.80637019901104
+Vermont,New Mexico,1898.31339262094
+Vermont,New York,163.04625178619466
+Vermont,North Carolina,687.0781839438349
+Vermont,North Dakota,1356.5062804508348
+Vermont,Ohio,581.2400094795407
+Vermont,Oklahoma,1437.15292095481
+Vermont,Oregon,2352.203609094461
+Vermont,Pennsylvania,342.38973720847724
+Vermont,Rhode Island,174.4897727499322
+Vermont,South Carolina,827.685266466214
+Vermont,South Dakota,1361.3721600728102
+Vermont,Tennessee,919.1727354982157
+Vermont,Texas,1687.1796267550505
+Vermont,Utah,2025.034555435638
+Vermont,Vermont,0.0
+Vermont,Virginia,555.8668078829523
+Vermont,Washington,2285.996877854069
+Vermont,West Virginia,557.62003325816
+Vermont,Wisconsin,857.802642850813
+Vermont,Wyoming,1740.6309109778267
+Virginia,Alabama,557.0996276168297
+Virginia,Alaska,3442.3741527467246
+Virginia,Arizona,1844.5299757231658
+Virginia,Arkansas,779.8593606320925
+Virginia,California,2218.3730595737525
+Virginia,Colorado,1450.0899488005389
+Virginia,Connecticut,432.24183652780937
+Virginia,Delaware,208.36015401953617
+Virginia,District of Columbia,138.5116395117612
+Virginia,Florida,647.1074258564148
+Virginia,Georgia,425.0641073978259
+Virginia,Hawaii,4716.884320044706
+Virginia,Idaho,1913.2654953450542
+Virginia,Illinois,584.4530047307583
+Virginia,Indiana,433.3611253240144
+Virginia,Iowa,838.7701826672239
+Virginia,Kansas,1065.6968575524518
+Virginia,Kentucky,354.1064316004699
+Virginia,Louisiana,872.2887103097504
+Virginia,Maine,735.4067690969906
+Virginia,Maryland,154.14214081545555
+Virginia,Massachusetts,496.72894400859235
+Virginia,Michigan,582.2631092825502
+Virginia,Minnesota,997.1091617404782
+Virginia,Mississippi,694.9828710886194
+Virginia,Missouri,744.6402056816843
+Virginia,Montana,1695.1737880027756
+Virginia,Nebraska,1149.4181819296214
+Virginia,Nevada,2038.6702310664534
+Virginia,New Hampshire,571.2862707951188
+Virginia,New Jersey,291.0593469038539
+Virginia,New Mexico,1537.412043253682
+Virginia,New York,413.9476275604196
+Virginia,North Carolina,138.76527817814815
+Virginia,North Dakota,1292.8002200169556
+Virginia,Ohio,285.3716425648927
+Virginia,Oklahoma,1043.7509439226005
+Virginia,Oregon,2209.1134995726147
+Virginia,Pennsylvania,238.35893829771652
+Virginia,Rhode Island,483.2773423173495
+Virginia,South Carolina,273.74699191792945
+Virginia,South Dakota,1210.8130708271003
+Virginia,Tennessee,431.6943748183745
+Virginia,Texas,1237.5514847907193
+Virginia,Utah,1775.3987755496898
+Virginia,Vermont,555.8668078829523
+Virginia,Virginia,0.0
+Virginia,Washington,2202.6919718307367
+Virginia,West Virginia,123.53224344845111
+Virginia,Wisconsin,759.4783522295245
+Virginia,Wyoming,1554.9924314882608
+Washington,Alabama,2024.1997435405128
+Washington,Alaska,1663.9169677534526
+Washington,Arizona,1013.4530139484671
+Washington,Arkansas,1682.4846051793088
+Washington,California,705.6787199973116
+Washington,Colorado,946.7151166974213
+Washington,Connecticut,2353.4975909398418
+Washington,Delaware,2308.5388520301267
+Washington,District of Columbia,2240.4311356752487
+Washington,Florida,2408.6825114993453
+Washington,Georgia,2182.981662666373
+Washington,Hawaii,2742.5601038219997
+Washington,Idaho,350.6666797523456
+Washington,Illinois,1632.2215296268635
+Washington,Indiana,1773.2075122202684
+Washington,Iowa,1368.6198860755817
+Washington,Kansas,1269.9541942522037
+Washington,Kentucky,1901.0108420528416
+Washington,Louisiana,1878.8061818965969
+Washington,Maine,2407.2592633249874
+Washington,Maryland,2246.0234946365854
+Washington,Massachusetts,2376.8400382133427
+Washington,Michigan,1689.0079624152372
+Washington,Minnesota,1235.8107006512357
+Washington,Mississippi,1900.3825545930401
+Washington,Missouri,1540.7906685735456
+Washington,Montana,509.0748174968363
+Washington,Nebraska,1093.9682998174608
+Washington,Nevada,588.0775484305564
+Washington,New Hampshire,2346.3544531253033
+Washington,New Jersey,2307.7576242393798
+Washington,New Mexico,1164.454254794675
+Washington,New York,2184.600447067169
+Washington,North Carolina,2251.0649508471943
+Washington,North Dakota,934.3610055393087
+Washington,Ohio,1924.0594546378138
+Washington,Oklahoma,1433.8643894308875
+Washington,Oregon,238.25577533169096
+Washington,Pennsylvania,2139.7189711414308
+Washington,Rhode Island,2406.1634019807084
+Washington,South Carolina,2246.1928060548744
+Washington,South Dakota,992.7082838845027
+Washington,Tennessee,1916.6852146028011
+Washington,Texas,1565.1385382894844
+Washington,Utah,710.6972932634504
+Washington,Vermont,2285.996877854069
+Washington,Virginia,2202.6919718307367
+Washington,Washington,0.0
+Washington,West Virginia,2080.363190914919
+Washington,Wisconsin,1468.4966899229792
+Washington,Wyoming,697.6467464617607
+West Virginia,Alabama,533.6367905212943
+West Virginia,Alaska,3324.6418015658282
+West Virginia,Arizona,1746.2178420235043
+West Virginia,Arkansas,704.1267747783025
+West Virginia,California,2109.1124453949396
+West Virginia,Colorado,1341.0642199240995
+West Virginia,Connecticut,465.7264467590392
+West Virginia,Delaware,277.1943772820776
+West Virginia,District of Columbia,195.6904394138613
+West Virginia,Florida,697.8685565367346
+West Virginia,Georgia,442.9474456636449
+West Virginia,Hawaii,4609.8201026905845
+West Virginia,Idaho,1793.4046333814624
+West Virginia,Illinois,469.1316441192121
+West Virginia,Indiana,315.46346951884857
+West Virginia,Iowa,718.7510442184973
+West Virginia,Kansas,960.189633313519
+West Virginia,Kentucky,266.2099309827742
+West Virginia,Louisiana,829.5990413997246
+West Virginia,Maine,746.2990189258268
+West Virginia,Maryland,208.64369325739705
+West Virginia,Massachusetts,527.0717931806047
+West Virginia,Michigan,465.3738659384548
+West Virginia,Minnesota,873.7653746787674
+West Virginia,Mississippi,650.9659268036638
+West Virginia,Missouri,641.3857288377445
+West Virginia,Montana,1572.5130685079746
+West Virginia,Nebraska,1033.1848075813266
+West Virginia,Nevada,1926.2872613496606
+West Virginia,New Hampshire,585.3369696389703
+West Virginia,New Jersey,335.77281959470173
+West Virginia,New Mexico,1443.3462907194942
+West Virginia,New York,399.8093957274497
+West Virginia,North Carolina,223.41643546634293
+West Virginia,North Dakota,1169.2706563412348
+West Virginia,Ohio,162.3494340745839
+West Virginia,Oklahoma,953.7298349626363
+West Virginia,Oregon,2089.6195136229576
+West Virginia,Pennsylvania,215.42665310684427
+West Virginia,Rhode Island,523.3119386204227
+West Virginia,South Carolina,326.07777758112707
+West Virginia,South Dakota,1089.0682825829747
+West Virginia,Tennessee,369.394440266098
+West Virginia,Texas,1166.8789669597518
+West Virginia,Utah,1664.2121983027412
+West Virginia,Vermont,557.62003325816
+West Virginia,Virginia,123.53224344845111
+West Virginia,Washington,2080.363190914919
+West Virginia,West Virginia,0.0
+West Virginia,Wisconsin,636.3914347338109
+West Virginia,Wyoming,1436.7126775363945
+Wisconsin,Alabama,834.5848314811676
+Wisconsin,Alaska,2706.157416250119
+Wisconsin,Arizona,1354.6396341318425
+Wisconsin,Arkansas,683.7684746569902
+Wisconsin,California,1615.9583015563076
+Wisconsin,Colorado,890.0798490629503
+Wisconsin,Connecticut,895.5119773271296
+Wisconsin,Delaware,841.4948316819476
+Wisconsin,District of Columbia,776.6192572689732
+Wisconsin,Florida,1178.5443127711972
+Wisconsin,Georgia,898.5740870705667
+Wisconsin,Hawaii,4099.915134295628
+Wisconsin,Idaho,1212.366734813428
+Wisconsin,Illinois,318.9209225017224
+Wisconsin,Indiana,377.81018785937664
+Wisconsin,Iowa,249.14009367738598
+Wisconsin,Kansas,605.9831782427415
+Wisconsin,Kentucky,546.904627959524
+Wisconsin,Louisiana,941.2126119788508
+Wisconsin,Maine,1015.2084457272141
+Wisconsin,Maryland,780.9662201479858
+Wisconsin,Massachusetts,927.211648542628
+Wisconsin,Michigan,227.35932603340677
+Wisconsin,Minnesota,238.69085500116762
+Wisconsin,Mississippi,820.1984722671191
+Wisconsin,Missouri,450.9821711970468
+Wisconsin,Montana,960.1132116827364
+Wisconsin,Nebraska,539.3076405213717
+Wisconsin,Nevada,1412.6347698739955
+Wisconsin,New Hampshire,915.6732702087097
+Wisconsin,New Jersey,839.6999329784782
+Wisconsin,New Mexico,1109.3485991874581
+Wisconsin,New York,731.6950220334387
+Wisconsin,North Carolina,839.6092404889813
+Wisconsin,North Dakota,539.6542347625186
+Wisconsin,Ohio,474.1263221797816
+Wisconsin,Oklahoma,738.5082932355547
+Wisconsin,Oregon,1507.9412088542094
+Wisconsin,Pennsylvania,671.2227954594076
+Wisconsin,Rhode Island,951.6671645287346
+Wisconsin,South Carolina,883.9128365090286
+Wisconsin,South Dakota,505.1732733729063
+Wisconsin,Tennessee,634.602970789737
+Wisconsin,Texas,1038.406904266347
+Wisconsin,Utah,1171.1652518026494
+Wisconsin,Vermont,857.802642850813
+Wisconsin,Virginia,759.4783522295245
+Wisconsin,Washington,1468.4966899229792
+Wisconsin,West Virginia,636.3914347338109
+Wisconsin,Wisconsin,0.0
+Wisconsin,Wyoming,883.2167422388366
+Wyoming,Alabama,1328.3585911208438
+Wyoming,Alaska,2271.7263880900177
+Wyoming,Arizona,641.1139907792694
+Wyoming,Arkansas,984.8650030318876
+Wyoming,California,746.9914553958641
+Wyoming,Colorado,295.1054564747658
+Wyoming,Connecticut,1773.7931193592296
+Wyoming,Delaware,1687.6558629241833
+Wyoming,District of Columbia,1613.0332518448365
+Wyoming,Florida,1711.7661737440794
+Wyoming,Georgia,1492.1898580865557
+Wyoming,Hawaii,3216.699946481766
+Wyoming,Idaho,365.89632960183394
+Wyoming,Illinois,971.4844560891207
+Wyoming,Indiana,1121.8039337119153
+Wyoming,Iowa,719.4394949056895
+Wyoming,Kansas,572.3151276707111
+Wyoming,Kentucky,1230.5689449781753
+Wyoming,Louisiana,1186.1827527343792
+Wyoming,Maine,1892.3522536009818
+Wyoming,Maryland,1620.992142857424
+Wyoming,Massachusetts,1808.7506023591
+Wyoming,Michigan,1110.048951863489
+Wyoming,Minnesota,690.2897761857627
+Wyoming,Mississippi,1202.7362818292142
+Wyoming,Missouri,853.5327075190608
+Wyoming,Montana,298.10241554452585
+Wyoming,Nebraska,409.9859821724917
+Wyoming,Nevada,536.4711478530933
+Wyoming,New Hampshire,1798.7785312007832
+Wyoming,New Jersey,1703.3399686648827
+Wyoming,New Mexico,597.4829939380476
+Wyoming,New York,1613.2869176498962
+Wyoming,North Carolina,1586.0130354369803
+Wyoming,North Dakota,462.4569289630997
+Wyoming,Ohio,1290.4535573929875
+Wyoming,Oklahoma,741.748102550963
+Wyoming,Oregon,656.5529586679228
+Wyoming,Pennsylvania,1532.0455186640017
+Wyoming,Rhode Island,1831.3865201461726
+Wyoming,South Carolina,1566.7399866984924
+Wyoming,South Dakota,380.00952718729053
+Wyoming,Tennessee,1232.0951568826213
+Wyoming,Texas,913.52494475482
+Wyoming,Utah,333.08817698846514
+Wyoming,Vermont,1740.6309109778267
+Wyoming,Virginia,1554.9924314882608
+Wyoming,Washington,697.6467464617607
+Wyoming,West Virginia,1436.7126775363945
+Wyoming,Wisconsin,883.2167422388366
+Wyoming,Wyoming,0.0

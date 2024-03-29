@@ -32,7 +32,7 @@ if __name__ == '__main__':
 
     settings = {'cmi_estimator': 'JidtKraskovCMI',
                 'max_lag_sources': 12, 
-                'min_lag_sources': 0,
+                'min_lag_sources': 1,
                 'verbose':False}
 
     # Run the analysis
