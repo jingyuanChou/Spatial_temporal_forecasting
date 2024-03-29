@@ -15,10 +15,10 @@ if __name__ == '__main__':
 
     # As we are using 12 weeks to predict next 4 weeks, we will loop from 12 (maybe 13, correct me if wrong)
 
-    for time in range(0, total_timestamps - 12):
+    for time in range(0, total_timestamps - 6):
         print('=================================== Running '+str(time)+'-th timestamp, total 85 timestamps')
         # Arrange the data in a 2D array
-        data = cases[0:(time+12)]
+        data = cases[0:(time+6)]
         data = data.T # now it's 51 by (time+12), number_states by available time sequence from 0
 
         # Convert this into an IDTxl Data object
@@ -32,8 +32,8 @@ if __name__ == '__main__':
         print(f'Number of cores available: {multiprocessing.cpu_count()}')
 
         settings = {'cmi_estimator': 'JidtKraskovCMI',
-                    'max_lag_sources': 12, 
-                    'min_lag_sources': 0,
+                    'max_lag_sources': 3,
+                    'min_lag_sources': 1,
                     'verbose':False,
                     'parallel_target': 'cpu',
                     'parallel_params': 15}

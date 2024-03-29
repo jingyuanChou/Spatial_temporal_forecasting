@@ -31,7 +31,7 @@ if __name__ == '__main__':
     #print(f'Number of cores available: {multiprocessing.cpu_count()}')
 
     settings = {'cmi_estimator': 'JidtKraskovCMI',
-                'max_lag_sources': 12, 
+                'max_lag_sources': 3,
                 'min_lag_sources': 1,
                 'verbose':False}
 
