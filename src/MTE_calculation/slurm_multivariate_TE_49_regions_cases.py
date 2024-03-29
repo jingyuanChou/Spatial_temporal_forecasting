@@ -12,10 +12,9 @@ if __name__ == '__main__':
     cases = cases.T.values # size: timestamps * num_instances
     total_timestamps = cases.shape[0]
 
-    # As we are using 12 weeks to predict next 4 weeks, we will loop from 12 (maybe 13, correct me if wrong)
+    # we will loop from 6 as we select lag of 3
 
-#    for time in range(0, total_timestamps - 12):
-    print('=================================== Running '+str(time)+'-th timestamp, total 85 timestamps')
+    print('=================================== Running '+str(time)+'-th timestamp, total  timestamps')
     # Arrange the data in a 2D array
     data = cases[0:time]
     data = data.T # now it's 51 by (time+12), number_states by available time sequence from 0

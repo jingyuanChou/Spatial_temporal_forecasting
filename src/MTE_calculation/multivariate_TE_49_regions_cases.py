@@ -13,8 +13,7 @@ if __name__ == '__main__':
     cases = cases.T.values # size: timestamps * num_instances
     total_timestamps = cases.shape[0]
 
-    # As we are using 12 weeks to predict next 4 weeks, we will loop from 12 (maybe 13, correct me if wrong)
-
+    # we use 6 as we select lag to be 3
     for time in range(0, total_timestamps - 6):
         print('=================================== Running '+str(time)+'-th timestamp, total 85 timestamps')
         # Arrange the data in a 2D array
